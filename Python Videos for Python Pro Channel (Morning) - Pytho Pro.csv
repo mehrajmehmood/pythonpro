@@ -1,0 +1,1661 @@
+ed,Date (Planned),Date (Published),Month,Day,Name,Title,Detail,Examples,Status,Creator,Time (in minutes),Video Link,Sound/Music
+13,21/12/2023,22 Dec 2023,December,Friday,"String.upper()
+String.lower()
+String.title()
+String.capitalize()",string function in python,"1:upper()
+2: lower()
+3: title()
+4: capitalize()",4,Done,Shumaila,5,https://youtu.be/Xsnkz6IvGvk,TRUE
+1,21/12/2023,23 Dec 2023,December,Saturday,Set,Set in Python,Introduction to set,,Done,Mehraj,10,https://youtu.be/aYs_FLsYWkU,TRUE
+2,22/12/2023,23 Dec 2023,December,Saturday,"Set.union()
+Set.intersect()",Set Methods in Python,"1: Union in Set   
+2: Intersection in Set",4,Done,Mehraj,6,https://youtu.be/dgpiQ_hvdcM,TRUE
+3,23/12/2023,23 Dec 2023,December,Saturday,List,List in Python,Introduction to List,,Done,Mehraj,1,https://youtu.be/9oSPt6TGJoQ,FALSE
+4,25/12/2023,25 Dec 2023,December,Monday,,Add formula in google sheet,,,Done,Mehraj,1,https://youtu.be/eSPDyZhAADA,FALSE
+5,25/12/2023,25 Dec 2023,December,Monday,,Python simle calculator,"Four Oprators:
+1: Add
+2:Substract
+3:Divide
+4:Multiply",,Done,Mehraj,5,https://youtu.be/sua7ZuSq5sE,TRUE
+6,27/12/2023,27 Dec 2023,December,Wednesday,"List.remove()
+List.pop()
+List.clear()
+del",List Funtions Python,"Functions for Delete Elements from List:
+1: del
+2: pop( )
+3 remove( )
+4: clear( )",,Done,Mehraj,,https://youtu.be/msOCEyB6M74,FALSE
+7,27/12/2023,27 Dec 2023,December,Wednesday,,divide formula in google sheet,divide formula in google sheet,,Done,Mehraj,,,FALSE
+8,27/12/2023,27 Dec 2023,December,Wednesday,,substract formula in google sheet,substract formula in google sheet,,Done,Mehraj,,https://youtu.be/kBf7N5iY3u4,FALSE
+14,Dec/27/23,27 Dec 2023,December,Wednesday,"String.lstrip()
+String.rstrip()
+String.strip()",string function in python,"1: lstrip
+2: rstrip
+3: strip",,Done,Shumaila,7,https://youtu.be/tNPCoumGwYA,TRUE
+15,Dec/27/23,27 Dec 2023,December,Wednesday,"String.startwith()
+String.endswith()",string function in python,"1: startswith()
+2: endswith()",,Done,Shumaila,6,https://youtu.be/zruq0yhnHmg,TRUE
+16,27/12/2023,27 Dec 2023,December,Wednesday,,Convert list in Tuple,"1. List: Introduction to list.
+2.Tuple: Introduction to tuple.",,Done,Rimsha,,https://youtu.be/C_kBJdkexZU,FALSE
+17,27/12/2023,28 Dec 2023,December,Thursday,,Convert list in Tuple,"1. List: Introduction to list.
+2.Tuple: Introduction to tuple.",,Done,Rimsha,,https://youtu.be/C_kBJdkexZU,FALSE
+18,28/12/2023,28 Dec 2023,December,Thursday,,"python Interview Question and
+Answers",Best Tricky python Question,,Done,Rimsha,,https://youtu.be/pAp3Az27XyU,FALSE
+19,29/12/2023,29 Dec 2023,December,Friday,while,while loop,Create any table using while loop,,Done,Rimsha,,https://youtu.be/Fr7U3O--lGY,FALSE
+20,29/12/2023,29 Dec 2023,December,Friday,String.isspace(),string function in python,1: isspace function,,Done,Shumaila,3,https://youtu.be/VJ81Wo0C0UY,TRUE
+21,29/12/203,29 Dec 2023,December,Friday,"String.replace()
+String.join()",string function in python,"1: replace()
+2: join()",,Not Done,Shumaila,8,https://youtu.be/OsbrZIaooIs,TRUE
+22,29/12/2023,29 Dec 2023,December,Friday,,programiz python Quiz,Only python Masters can solve These Quizzes,,Done,Rimsha,,https://youtu.be/NiZ34-uaIxs,FALSE
+23,30/12/2023,30 Dec 2023,December,Saturday,,Top 4 questions about python,"what is python?
+what is the namespaces in python?
+what are the benefits of python?
+what is scope in python?",,Done,Mehraj,1,https://youtu.be/PzTp1SBSThM,FALSE
+24,30/12/2023,30 Dec 2023,December,Saturday,"String.replace()
+String.join()",string function in python,"replacce(), join() functions",,Done,Shumaila,8,https://youtu.be/OsbrZIaooIs,TRUE
+25,30/12/2023,30 Dec 2023,December,Saturday,tuple,Tuple in python,Introduction to tuple in python,,Done,Rimsha,,https://youtu.be/Ce_tPUtN-9g,FALSE
+26,Jan/1/24,1 Jan 2024,January,Monday,"float
+input()",Float input from user,take float input from user,,Done,Mehraj,2,https://youtu.be/tU6WwIGckCc,FALSE
+27,Jan/1/24,1 Jan 2024,January,Monday,,Covnvert string to float or int in python,how to convert string to float or int in python,,Done,Mehraj,3,https://youtu.be/rbPag3cAQEY,TRUE
+28,Jan/1/24,1 Jan 2024,January,Monday,String.reverse(),string function in python,reverse() method,,Done,Shumaila,2,https://youtu.be/UB4N9UNKSLc,TRUE
+29,Jan/1/24,1 Jan 2024,January,Monday,String.index(),string method in python,index () method,,Done,Shumaila,2,https://youtu.be/SRXp8GHFB3w,TRUE
+30,Jan/1/24,1 Jan 2024,January,Monday,Dictionary vs Set,"Difference between Dictionary 
+and set","Difference between Dictionary 
+and set in python",,Done,Mehraj,2,https://youtu.be/r6frKbOAOEE,FALSE
+31,Jan/1/24,1 Jan 2024,January,Monday,comments,Comment in python,Introduction to Comment in python,,Done,Rimsha,8,https://youtu.be/OEmIsp6jabo,FALSE
+34,Jan/2/24,2 Jan 2024,January,Tuesday,List.center(),String method in python ,center() method,,Done,Rimsha,3,https://youtu.be/5Ug-leBmibE,FALSE
+35,Jan/2/24,2 Jan 2024,January,Tuesday,String.zfill(),String method in python ,zfill() method,,Done,Rimsha,,https://youtu.be/nFJR4BS_eBA,FALSE
+36,Jan/2/24,2 Jan 2024,January,Tuesday,String.isdigit(),String method in python ,Isdigit() method,,Done,Rimsha,,https://youtu.be/bWBl_WYkFOo,FALSE
+37,Jan/2/24,2 Jan 2024,January,Tuesday,List.insert(),list method in python,insert() method,,Done,Shumaila,6,https://youtu.be/gIaL8ED1iPQ,TRUE
+38,Jan/2/24,2 Jan 2024,January,Tuesday,String.isalpha(),String method in python ,Isalpha () method,,Done,Rimsha,3,https://youtu.be/_Btf0ld81UE,FALSE
+39,Jan/2/24,2 Jan 2024,January,Tuesday,mutable vs immutable,Mutable and Immutable Datatype in Python, Difference between Mutable and Immutable Datatype in Python,,Done,Mehraj,2,https://youtu.be/eD_yobMa3Yk,TRUE
+40,Jan/2/24,2 Jan 2024,January,Tuesday,,"Get input from user in list, (Python)","Get input from user in list, (Python)",,Done,Mehraj,3,https://youtu.be/KUtRPvu0Bug,FALSE
+,Jan/2/24,2 Jan 2024,January,Tuesday,,Get input from user in  (Python),,,Done,Mehraj,3,https://www.youtube.com/watch?v=KUtRPvu0Bug,FALSE
+41,Jan/2/24,2 Jan 2024,January,Tuesday,input(),Take user input in python using input function,Take user input in python using input function,,Done,Mehraj,2,https://youtu.be/u90-uQ7s2v4,FALSE
+42,Jan/2/24,2 Jan 2024,January,Tuesday,String.isalnum(),String method in python ,Insalnum() method,,Done,Rimsha,3,https://youtu.be/Kqc7cRLw-vk,FALSE
+159,Jan/2/24,2 Jan 2024,January,Tuesday,string.isspace(),isspace() string method in python,"In this video i disscussed about string method in python
+ i explain how to find isspace() method in python",8,Done,Rimsha,11,,FALSE
+160,Jan/2/24,2 Jan 2024,January,Tuesday,String.count(),count () string method in python,"In this video i disscussed about string method in python
+ i explain how to find count () method in python",5,Done,Shumaila,12,https://youtu.be/5BVCTLkWvMo,FALSE
+161,Jan/2/24,2 Jan 2024,January,Tuesday,String.isprintable(),isprintable() string method in python,"In this video i disscussed about string method in python
+ i explain isprintable() method in python",7,Done,Rimsha,12,https://youtu.be/rQqeFc9E-Qk,FALSE
+162,Jan/2/24,2 Jan 2024,January,Tuesday,String.format(),format ( ) string method in python,"In this video i disscussed about string method in python
+ i explain  format () method in python",4,Done,Shumaila,13,https://youtu.be/cCBO9t_EXRI,FALSE
+163,Jan/2/24,2 Jan 2024,January,Tuesday,String.translate(),translate() string method in python,"In this video i disscussed about string method in python i 
+explain translate() method in python",5,Done,Rimsha,13,https://youtu.be/Lp-rqS4Ecd8,FALSE
+168,Jan/2/24,2 Jan 2024,January,Tuesday,String.title(),"Iss cell main title likhain,","in this video i disscussed about the title( ) method in python:
+The title() method returns a string where the first character in every word is upper case. Like a header, or a title.",5,Done,Mehraj,12,https://youtu.be/eeOdcGBRGPE,TRUE
+170,Jan/2/24,2 Jan 2024,January,Tuesday,String.ljust(),ljust ( ) string method in python,in this video i disscussed about ljust () method in python,5,Done,Shumaila,11,https://youtu.be/r2r9gEDbP4s,FALSE
+171,Jan/2/24,2 Jan 2024,January,Tuesday,String.lower(),,"Python Tutorial: Understanding the `lower()` Method In this Python tutorial, we dive into the `lower()` method, a powerful string manipulation tool. Whether you're a beginner or an experienced coder, understanding string methods is crucial. The `lower()` method, specifically, is used to convert all characters in a string to lowercase.",5,Done,Mehraj,11,https://youtu.be/92AppM9_Ep8,TRUE
+180,Jan/2/24,2 Jan 2024,January,Tuesday,String.split(),String.split(),"Python's `split()` function is a powerful tool for manipulating strings, and in this video, we'll delve deep into its functionality! Whether you're a beginner or an experienced Pythonista, understanding how to use `split()` can enhance your string manipulation skills. 🎓 In this tutorial, we cover various aspects of the `split()` method, starting with the basics. Learn how to split a string into a list of substrings using default whitespace as a delimiter.",5,Done,Mehraj,11,https://youtu.be/tyLxrjqg8pw,TRUE
+43,Jan/3/23,3 Jan 2024,January,Wednesday,,"Count the number of time a 
+character","How to create a count the number of time a 
+chatcter",,Done,Rimsha,3,https://www.youtube.com/watch?v=hUrXD3nqd8M,FALSE
+44,Jan/3/23,3 Jan 2024,January,Wednesday,String.count(),string method in python,Count() method,,Done,Rimsha,2,https://youtu.be/8WH9eWL7egU,FALSE
+45,Jan/3/24,3 Jan 2024,January,Wednesday,List.sort(),list method in python,sort() method,,Done,Shumaila,9,https://youtu.be/xvlFJ1V4RyY,FALSE
+46,Jan/3/24,3 Jan 2024,January,Wednesday,"if
+ifelse",if elif else condition in python,how to use  if elif else condition in python,,Done,Mehraj,3,https://youtu.be/5OzCc-nWhuA,FALSE
+,Jan/3/24,3 Jan 2024,January,Wednesday,return list from function in python,return list from function in python,return list from function in python,,Done,Mehraj,2,https://www.youtube.com/watch?v=I9zNSwqL-Ls,FALSE
+47,Jan/3/24,3 Jan 2024,January,Wednesday,List.append(),list method in python,append() method in list,,Done,Shumaila,3,https://youtu.be/VIqMTc235_I,FALSE
+48,Jan/3/24,3 Jan 2024,January,Wednesday,List.clear(),list method in python,clear() method in list,,Done,Shumaila,3,https://youtu.be/rPhX4cKbIx4,FALSE
+49,Jan/3/24,3 Jan 2024,January,Wednesday,Dictionary.get(),Dictionaries method in python,get() method,,Done,Rimsha,,https://youtu.be/t3AW5QaFWCQ,FALSE
+50,Jan/3/24,3 Jan 2024,January,Wednesday,"if
+else",Why we use if else statement in python,Why we use if else statement in python,,Done,Mehraj,4,(MM) If elif and else conditions in Python,FALSE
+51,Jan/3/24,3 Jan 2024,January,Wednesday,"if
+elif
+else",If elif and else conditions in Python,If elif and else conditions in Python,,Done,Mehraj,2,(MM) If elif and else conditions in Python,FALSE
+52,Jan/3/24,4 Jan 2024,January,Thursday,float,Float in python, What is the Float in python,,Done,Mehraj,9,(MM) Float in python,FALSE
+53,Jan/4/24,4 Jan 2024,January,Thursday,variable,Variables in Python, What are Variables in Python,,Done,Mehraj,7,(MM) Variables in Python,TRUE
+54,Jan/3/24,4 Jan 2024,January,Thursday,"float
+input()",Float input from user, How to get Float input from user,,Done,Mehraj,3,https://youtu.be/pnydG6KsLSQ,TRUE
+55,Jan/3/24,4 Jan 2024,January,Thursday,"Get input from user in list, (Python)","Get input from user in list, (Python)","Get input from user in list, (Python)",3,Done,Mehraj,4,"Get input from user in list, (Python)  by (MM)",FALSE
+56,Jan/4/24,4 Jan 2024,January,Thursday,,"Python Interview question and 
+answer",More 3 Trickey,,Done,Rimsha,,Python Interview Question and Answer(RK),FALSE
+57,Jan/4/24,4 Jan 2024,January,Thursday,Dictionary.item(),Dictionaries method in python,Item() method,,Done,Rimsha,6,Dictionary Method item(RK),FALSE
+58,Jan/4/24,4 Jan 2024,January,Thursday,Dictionary.copy(),Dictionaries method in python,Copy() method,,Done,Rimsha,6,(RK) Dictionary Method Copy,FALSE
+59,Jan/4/24,4 Jan 2024,January,Thursday,Dictionary.keys(),Dictionaries method in python,keys(0 method,,Done,Shumaila,,,FALSE
+60,Jan/4/24,4 Jan 2024,January,Thursday,Dictionary.values(),Dictionaries method in python,values () method,,Done,Shumaila,2,https://youtu.be/E8UpCvzhyGY,FALSE
+61,Jan/5/24,5 Jan 2024,January,Friday,Modules,Modules in python,in this video i disscuss about modules in python,,Done,Mehraj,2,(MM) Modules in python,TRUE
+62,Jan/5/24,5 Jan 2024,January,Friday,calender module,calendar module in python,in this video i disscuss about  calendar modules in python,,Done,Mehraj,3,(MM) Calendar module in python,TRUE
+63,Jan/5/24,5 Jan 2024,January,Friday,Dictionary.values(),Dictionary method in values,"in this video i disscuss about values() method 
+ in python",,Done,Shumaila,,https://youtu.be/E8UpCvzhyGY,FALSE
+64,Jan/5/24,5 Jan 2024,January,Friday,Dictionary.setdefault(),setdefault () method in python,"in this video i disscuss about  setdefault() method 
+ in python",,Done,Shumaila,5,https://youtu.be/mqrvtoflhl4,FALSE
+65,Jan/6/24,6 Jan 2024,January,Saturday,Dictionary.fromkeys(),Dictionary fromkeys() Method,"In this video i discussed about the Dictionary
+ fromkeys() method",3,Done,Rimsha,5,https://youtu.be/zxEkRlaqiZY,FALSE
+66,Jan/6/24,6 Jan 2024,January,Saturday,,Dictionary AS input from user.,"In this video i discussed about the Dictionary
+ As input from user",2,Done,Rimsha,3,https://youtu.be/mYdyuAmtO_4,FALSE
+67,Jan/6/24,6 Jan 2024,January,Saturday,map(),Map() function in python,"In this video i discussed about the Map() function
+in python",3,Done,Rimsha,,,FALSE
+68,Jan/6/24,6 Jan 2024,January,Saturday,boolean,Boolean variables in python,"In this video i discussed about the Boolean
+ variables in python",4,Done,Mehraj,11,https://youtu.be/Yams1Wpztuc,TRUE
+69,Jan/6/24,6 Jan 2024,January,Saturday,,Modifying function,"In this video i discussed about the Modifying() function
+in python",,Done,Shumaila,12,https://youtu.be/D9T7PtGmCr4,TRUE
+70,Jan/8/24,8 Jan 2024,January,Monday,map(),Map() function in python-part 02,"In this video i discussed about the Map() function 
+in python-part 02",3,Done,Rimsha,7,https://youtu.be/t4CMX6-ETbM,FALSE
+71,Jan/8/24,8 Jan 2024,January,Monday, passing set to function in python, passing set to function in python,,5,Done,Mehraj,2,https://youtu.be/Bq1A40Z9_Aw,FALSE
+72,Jan/8/24,8 Jan 2024,January,Monday,,Recursionin Python,,,Done,Mehraj,5,https://youtube.com/watch?v=F0yA3rcCj5k,TRUE
+73,Jan/8/24,8 Jan 2024,January,Monday,"Dictionary.indert()
+Dictionary.add()","inserting /AAding in new item
+Dictionary","In this video i discussed about the  inserting/Aading
+ in new item Dictionary
+",,Done,Shumaila,8,https://youtu.be/WaBWu-U1AVc,FALSE
+74,Jan/9/24,9 Jan 2024,January,Tuesday,filter(),filter function in python,"In this video i discussed about the filter() function 
+in python",3,Done,Rimsha,6,https://youtu.be/QjsRfE0xxz0,FALSE
+75,Jan/9/24,9 Jan 2024,January,Tuesday,del Dict,"Deleting Dictionary Element
+ in python","In this video i discussed about the  Deleting
+ dictionaryin python",,Done,Shumaila,6,https://youtu.be/NSBNibn1PoM,FALSE
+76,Jan/9/24,9 Jan 2024,January,Tuesday,,solve problem on Hackerrankl.,In this video i disscussed about the hanckerrank problem,,Done,Mehraj,6,https://youtu.be/2PPynhDSp_g,TRUE
+77,Jan/9/24,9 Jan 2024,January,Tuesday,,Passing list to function,In this video i disscussed about how to pass the list in to function.,,Done,Mehraj,2,https://youtu.be/QP7-t-npI6Q,TRUE
+78,Jan/9/24,9 Jan 2024,January,Tuesday,type(),Test Dictionary key in python,"In this video i disscussed about test dictionary key
+ in python.",,Done,Shumaila,5,https://youtu.be/SSDFgD9qE2U,TRUE
+79,Jan/10/24,10 Jan 2024,January,Wednesday,,passing set to function,In this video i disscussed about how to pass the se tin to function.,,Done,Mehraj,2,https://youtu.be/Bq1A40Z9_Aw,TRUE
+80,Jan/10/24,10 Jan 2024,January,Wednesday,,return set from function,In this video i disscussed about how to return the set in to function.,,Done,Mehraj,2,https://youtu.be/cz1s6sc99Sw,TRUE
+81,Jan/10/24,10 Jan 2024,January,Wednesday,,return list to function,In this video i disscussed about how to return the list in to function.,,Done,Mehraj,2,https://youtu.be/I9zNSwqL-Ls,TRUE
+82,Jan/10/24,10 Jan 2024,January,Wednesday,,"Reading text fileRead() function 
+in python","In this video i desscussed about the Reading text
+ file/Read() function in python",2,Done,Rimsha,5,https://youtu.be/msYHSKJuTt4,FALSE
+83,Jan/10/24,10 Jan 2024,January,Wednesday,,"print a calendar for the given 
+month and year in python","
+i will disscuss about how to print a calendar 
+for the given month and year in python
+
+",,Done,Shumaila,3,https://youtu.be/Hr8AHvD1qhA,FALSE
+84,Jan/10/24,10 Jan 2024,January,Wednesday,for,"Accessing Dictionary using
+ for loop","
+i will disscuss about Accessing Dictionary using 
+for loop
+
+",,Done,Shumaila,8,https://youtu.be/7Uo071_A0xE,TRUE
+85,Jan/10/24,10 Jan 2024,January,Wednesday,Average of N number,"how to find average of n number
+ in python","i will disscuss about find average of N number in 
+python",,Done,Shumaila,,https://youtu.be/ASfdXhM0RV4,TRUE
+86,Jan/11/24,11 Jan 2024,January,Thursday,"List to Dictionary
+Dictionary to tuple","Interview Question / list to
+ Dictionary /Dictionary to tuple","In this video i desscussed about the ""Interview 
+Question / list toDictionary /Dictionary to tuple""",2,Done,Rimsha,4,https://youtu.be/Le4kgevQoOE,FALSE
+87,Jan/11/24,11 Jan 2024,January,Thursday,Timestamp to Datetime,Convert Timestamp to Datetime,"In this video i desscussed about the convert 
+Timestamp to Datetime",2,Done,Rimsha,5,https://youtu.be/ktoWIGmeGGo,FALSE
+88,Jan/11/24,11 Jan 2024,January,Thursday,len(),Len function in python,"In this video i desscussed about the Len function
+in python",3,Done,Rimsha,5,https://youtu.be/CSdDKLWAgS8,FALSE
+89,Jan/11/24,11 Jan 2024,January,Thursday,lambda,Nasted lambda function in python,"In this video i desscussed about the Nasted
+lambda function in python",,Done,Shumaila,7,https://youtu.be/xmuqjUYE3OI,TRUE
+90,Jan/11/24,11 Jan 2024,January,Thursday,"min()
+max()",min () max () function in python,"In this video i desscussed about the min () max () 
+function in python",,Done,Shumaila,8,https://youtu.be/zzctTnWcCS8,TRUE
+91,Jan/11/24,11 Jan 2024,January,Thursday,"Set.insert()
+Set.update()",Intersection update method in python,in this video i will disscuss about the Intersection update method in python,4,Done,Mehraj,,https://youtu.be/a7al1MZiiMU,TRUE
+92,Jan/11/24,11 Jan 2024,January,Thursday,Set.difference_update(),Difference update in python,in this video i will disscuss about the Difference update in python,4,Done,Mehraj,12,https://youtu.be/6SBq-bWu-Ko,TRUE
+93,Jan/11/24,11 Jan 2024,January,Thursday,Set.symmertric_difference_update(),Symmetric_difference update in python,in this video i will disscuss about the Symmetric_difference update in python,3,Done,Mehraj,7,https://youtu.be/QnCh59UfW3g,TRUE
+94,Jan/12/24,12 Jan 2024,January,Friday,import,Important Function in Python,"In this video i desscussed about the Important 
+Function in Python",3,Done,Rimsha,6,https://youtu.be/WGb8bfdl6_Y,FALSE
+95,Jan/12/24,12 Jan 2024,January,Friday,import,Important Function in Python part-02,"In this video i desscussed about the Important 
+Function in Python part-02",3,Done,Rimsha,7,https://youtu.be/Zu9QzjG6w2I,FALSE
+96,Jan/12/24,12 Jan 2024,January,Friday,return,Return statement in python,"In this video i desscussed about the Return 
+statement in python",3,Done,Rimsha,5,https://youtu.be/5zeKRLYSqxg,FALSE
+97,Jan/12/24,12 Jan 2024,January,Friday,Average of N number,find Average of  N numbers in python,"""In this video i desscussed about the find
+ Average of N Numbers in python",,Done,Shumaila,3,https://youtu.be/ASfdXhM0RV4,FALSE
+98,Jan/12/24,12 Jan 2024,January,Friday,"id()
+type()
+getsizeof()","id () function , type () function, 
+getsizeof () function in python","""In this video i desscussed about the id () function,
+type () function, getsizeof function in python",,Done,Shumaila,7,https://youtu.be/Nsaf4mTlPIQ,TRUE
+99,Jan/12/24,12 Jan 2024,January,Friday,passing Array,passing Array to function in python,"In this video i desscussed about the passing array to
+function in python",,Done,Shumaila,7,https://youtu.be/RYrYi1zbHuI,FALSE
+100,Jan/13/24,13 Jan 2024,January,Saturday,Set.issubset(),issubset method in python,in this video i will disscuss about the issubset method in python  i explained how to use it and what is issubset? i explaind it with a multiple examples for understanding viewers.,4,Done,Mehraj,9,https://youtu.be/ZdSDyZcVDTc,TRUE
+101,Jan/13/24,13 Jan 2024,January,Saturday,Set.issuperset(),issuperset method in python,in this video i will disscuss about the issuperset method in python  i explained how to use it and what is issuperset? i explaind it with a multiple examples for understanding viewers.,4,Done,Mehraj,9,https://youtu.be/vYxj9cU4XMU,TRUE
+102,Jan/13/24,13 Jan 2024,January,Saturday,Return vs print,Return vs print function in python,"In this video i desscussed about the Return vs
+ print function in python",3,Done,Rimsha,3,https://youtu.be/RjjblMbSmf4,FALSE
+103,Jan/13/24,13 Jan 2024,January,Saturday,print(),print statement in python,"In this video i desscussed about the print 
+statement in python",4,Done,Rimsha,4,https://youtu.be/Ut3UFG3ds08,FALSE
+104,Jan/13/24,13 Jan 2024,January,Saturday,Set.isdisjoin(),isdisjoin method in python,in this video i will disscuss about the isdisjoint method in python  i explained how to use it and what is isdisjoint? i explaind it with a multiple examples for understanding viewers.,4,Done,Mehraj,10,https://youtu.be/7IjM0oFKbU4,TRUE
+105,Jan/13/24,13 Jan 2024,January,Saturday,passing Array,passing Array to function in python,"In this video i desscussed about the passing
+ Array of function in python",,Done,Shumaila,,https://youtu.be/RYrYi1zbHuI,TRUE
+106,Jan/13/24,13 Jan 2024,January,Saturday,local variables,local variable,"In this video i desscussed about the local variable
+ in python",,Done,Shumaila,,https://youtu.be/OsAm-6Eai-8,TRUE
+107,Jan/15/24,15 Jan 2024,January,Monday,"Set.remove()
+Set.discard()",remove an item from set in python,In this video i desscussed about how to remove items from set by using remove() and discard() method in python,4,Done,Mehraj,9,https://youtu.be/SznbDaF7v3U,TRUE
+108,Jan/15/24,16 Jan 2024,January,Tuesday,pass,pass statement in python,"In this video i desscussed about the pass
+ statement in python",3,Done,Rimsha,7,https://youtu.be/0roy1OzkTlo,FALSE
+109,Jan/17/24,17 Jan 2024,January,Wednesday,"Set.remove()
+Set.discard()",Part 2:remove an item from set in python,in this video i disscussed about Part 2:remove an item from set in python,5,Done,Mehraj,14,https://youtu.be/7yw_yYD_gN4,TRUE
+110,Jan/17/24,17 Jan 2024,January,Wednesday,map(),map( ) function in python,in this video i disscuss about the higher map ( ) function in python,3,Done,Mehraj,8,https://youtube.com/watch?v=F0yA3rcCj5k,TRUE
+111,Jan/17/24,17 Jan 2024,January,Wednesday,passing list,passing list to function,"In this video i disscussed the passing list to 
+function in python",3,Done,Rimsha,10,https://youtu.be/it_MB_ioETE,TRUE
+112,Jan/17/24,17 Jan 2024,January,Wednesday,pass,pass keyword in python,"In this video i disscussed the pass keyword in 
+python",3,Done,Rimsha,,,TRUE
+113,Jan/17/24,17 Jan 2024,January,Wednesday,continue,continue statement in python,"In this video i disscussed about the continue
+ statement in python",,Done,Shumaila,8,https://youtu.be/__0d0twZ4Aw,TRUE
+114,Jan/17/24,17 Jan 2024,January,Wednesday,filter(),filter() function in python,in this video i disscuss about the higher filter( ) function in python,3,Done,Mehraj,9,https://youtu.be/TaJAONE4dBE,TRUE
+115,Jan/18/24,17 Jan 2024,January,Wednesday,Tuple concatinate,Tuple concatinate in pyton,"In this video i disscussed about the tuple concatinate 
+in python",3,Done,Shumaila,10,https://youtu.be/PYo499uNbWU,TRUE
+116,Jan/18/24,18 Jan 2024,January,Thursday,abs(),abs( ) function in python,in this video i explain what is abs(  ) function and how to use it?i explain this with multiple examples so it will be easy to understan.,3,Done,Mehraj,,https://youtu.be/34HrsnUbVeM,TRUE
+117,Jan/19/24,19 Jan 2024,January,Friday,sorted(),sorted( ) function in python,in this video i discuss about the sorted function what is sorted function and how to use it the sorted function returns the ascending order to descending or descending to ascending order.,4,Done,Mehraj,8,https://youtu.be/X2cgY-_9GHU,FALSE
+118,Jan/19/24,19 Jan 2024,January,Friday,"for
+Set",Access set using for loop,"In this video i disscussed about the Access set using 
+for loop in python",3,Done,Rimsha,6,https://youtu.be/h9W6mLgtbW8,FALSE
+119,Jan/19/24,19 Jan 2024,January,Friday,zip(),zip(  ) function in python,in this video i discuss about the zip( ) function in python the zip function is very easy function in python and its easy to understand i explain this with multiple examples.,5,Done,Mehraj,12,https://youtu.be/LbCBvqdJ2Sw,TRUE
+120,Jan/19/24,19 Jan 2024,January,Friday,"det
+tuple",Deleting tuple in python ,"In this video i disscussed about the Deleting tuple
+ in python",3,Done,Shumaila,13,https://youtu.be/0KTdBtw9ivY,FALSE
+121,Jan/20/24,20 Jan 2024,January,Saturday,Repetition tuple,Repetition  tuple in python,"in this video i disscussed about the Repetion tuple 
+in python",3,Done,Shumaila,11,https://youtu.be/olJdf6DPD_I,FALSE
+122,Jan/20/24,20 Jan 2024,January,Saturday,Copying set Element,copying set Element in python,"In this video i disscussed about copying set Element
+in python",3,Done,Rimsha,8,https://youtu.be/_CJMI6yB_Fw,FALSE
+123,Jan/22/24,22 Jan 2024,January,Monday,"Adding Single and Multiple
+ Set Elements","Adding Single and Multiple Set Elements
+ in Python","In this video i disscussed about Adding Single and 
+Multiple Set Elements in Python",5,Done,Rimsha,16,https://youtu.be/1WU5v-5dAjM,FALSE
+124,Jan/22/24,22 Jan 2024,January,Monday,input(),input( ) function in python,in this video i dicuss about how to take input from user by using input function in python I explain it with multiples so i will be easy to understand for viewers.,4,Done,Mehraj,12,https://youtu.be/ELLUH47V6o8,TRUE
+125,Jan/22/24,22 Jan 2024,January,Monday,set,remove an item from set in python,,5,Done,Mehraj,14,https://youtu.be/7yw_yYD_gN4,TRUE
+126,Jan/23/24,23 Jan 2024,January,Tuesday,next(),Next( ) function in python,in this video i dicuss about how to take next( ) function in python I explain it with multiples so i will be easy to understand for viewers.,3,Done,Mehraj,18,https://youtu.be/JZe7Eltqlnw,TRUE
+127,Jan/23/24,23 Jan 2024,January,Tuesday,Deleting set Element,Deleting set element in python,"In this video i disscussed about a Deleting set element
+in python i explain remove method and discard method",3,Done,Rimsha,11,https://youtu.be/i_u17aluI78,FALSE
+128,Jan/23/24,23 Jan 2024,January,Tuesday,Leap year,Leap year in python,In this video i disscssed about leap year in python,,Done,Rimsha,8,https://youtu.be/0lkxcbxNF0c,FALSE
+129,Jan/23/24,23 Jan 2024,January,Tuesday,Diamond,python diamond pattern,in this video i explain how to create diamond by usninf python code ,,Done,Mehraj,11,https://youtu.be/2r963PolmEU,TRUE
+130,Jan/24/24,24 Jan 2024,January,Wednesday,"id()
+bin()",In-built function in python,"In this video i disscussed about In-built function in python
+ i explain id() function and bin() function ",7,Done,Rimsha,13,https://youtu.be/Kc2FPgyRGss,FALSE
+131,Jan/24/24,24 Jan 2024,January,Wednesday,in,membership operator 1st type (in),"in this video i desscussed about membership operator 
+1st type (in)",4,Done,Shumaila,12,https://youtu.be/viUV5JOSzGI,TRUE
+132,Jan/25/24,25 Jan 2024,January,Thursday,not in,membership operator 2nd type (not in),"in this video i disscussed about membership operator and
+ type not in ",4,Done,Shumaila,11,https://youtu.be/3KJEX7_8Wv0,TRUE
+133,Jan/26/24,26 Jan 2024,January,Friday,"any()
+all()","In-built function in python 
+1.any() function
+2.all() function","In this video i disscussed about In-built function in python 
+i explain how to creata a any() function and all() function",3,Done,Rimsha,10,https://youtu.be/m8e-V89ubjk,FALSE
+134,Jan/26/24,26 Jan 2024,January,Friday,"min()
+max()",min( ) function in python,"in this video i disscuss about the min( ) function in python
+what is min(  ) function?
+how to use it?",4,Done,Mehraj,13,https://www.youtube.com/watch?v=SkCTd9W-bis,FALSE
+135,Jan/27/24,27 Jan 2024,January,Saturday,len(),String length in python,"In this video i disscussed about String length in python
+ i explain how to find len funvtion ",8,Done,Rimsha,10,https://youtu.be/xTdtuUCsNrU,FALSE
+136,Jan/27/24,27 Jan 2024,January,Saturday,arthmatic operator,python operators(arithmetic operators) addition and substraction,in this video i explain the python operators and its group Arithmetic operator and also its 2 two type addition operator and substraction operator.,4,Done,Mehraj,13,(MM) Python Operators and Arithmetic Operations | Python Tutorial,TRUE
+137,Jan/27/24,27 Jan 2024,January,Saturday,arthmatic operator,python operators(arithmetic operators)Multiplication and Division,in this video i explain the python operators and its group Arithmetic operator and also its 2 two type Multiplication operator and Division operator.,4,Done,Mehraj,11,(MM) Mastering Python Arithmetic Operators: Multiplication and Division | Python Tutorial,TRUE
+138,Jan/27/24,27 Jan 2024,January,Saturday,Copying and Cloning,copying and cloning list in python,"In this video i disscussed about copying and cloning list in
+ python ",4,Done,Rimsha,12,https://youtu.be/cHMZbAw_JoE,FALSE
+139,Jan/27/24,27 Jan 2024,January,Saturday,,python operators(arithmetic operators)Modulus,in this video i explain the python operators and its group Arithmetic operator and also its  type Modulus operator,5,Done,Mehraj,12,(MM) Mastering Modulus Operators in Programming,TRUE
+140,Jan/27/24,27 Jan 2024,January,Saturday,is,Identity operator (is) in python,"In this video i disscussed about identity operator (is)
+in python",4,Done,Shumaila,13,https://youtu.be/kKuQfdM7LTE,TRUE
+141,Jan/27/24,27 Jan 2024,January,Saturday,not is,identity oerator (is not) in python,"In this video i disscussed about identity operator (is not)
+in python",5,Done,Shumaila,11,https://youtu.be/6K4t5LXm6tw,TRUE
+142,Jan/27/24,27 Jan 2024,January,Saturday,loop,Access string using loop in python,"In this video i disscussed about Access string using loop
+ in python",3,Done,Shumaila,12,https://youtu.be/WUx9tkxgKF0,TRUE
+143,Jan/29/24,29 Jan 2024,January,Monday,or,Boolean operator OR explained with examples,"In Python, the Boolean operator ""OR"" is used to combine two or more Boolean expressions and returns True if at least one of the expressions evaluates to True. If all the expressions are False, the OR operator will return False. ",4,Done,Mehraj,15,https://youtu.be/o5fHdNXUjp4,TRUE
+144,Jan/29/24,29 Jan 2024,January,Monday,and,Boolean operator AND explained with examples,"In Python, the Boolean operator ""AND"" is used to combine two or more Boolean expressions and returns FALSE if at least one of the expressions evaluates to FALSE. If all the expressions are TRUR, the AND operator will return TRUE. ",4,Done,Mehraj,14,https://youtu.be/J83wCcuhcV8,TRUE
+146,Jan/29/24,29 Jan 2024,January,Monday,int,Explain int in Python with examples,In this video i disscussed about int () function in python,4,Done,Shumaila,11,https://youtu.be/RDQ8HzoynLQ,TRUE
+147,Jan/29/24,29 Jan 2024,January,Monday,float,Explain float in Python with examples,In this video i disscussed about float () function in python,4,Done,Shumaila,,,TRUE
+150,Jan/29/24,29 Jan 2024,January,Monday,Membership Operator,"Membership Operator with String List Tuple
+ Set and Dictionary in Python","In this video i disscussed about Membership Operator
+ with String List Tuple Set and Dictionary in Python i 
+exaplain how to find  string list tuple set and dictionary 
+in python",2,Done,Rimsha,17,https://youtu.be/X8vDGF4rtzI,FALSE
+151,Jan/29/24,29 Jan 2024,January,Monday,assignment operator,Assignment Operators in Python part-1,"In this video i disscussed about Assignment Operators 
+in Python i explain how to find 
+1.Assign(=) 
+2.Add  and Assign(+=)
+3. Subtract and Assign(-=)
+4. Multiply and Assign(*=)
+5. Divide and Assign(/=)
+",2,Done,Rimsha,13,https://youtu.be/euUZxE-5xLk,FALSE
+145,Jan/29/24,30 Jan 2024,January,Tuesday,not,Boolean operator NOT explained with examples,"The Boolean operator ""NOT"" in Python is a unary operator used to reverse the value of a Boolean expression. It changes True to False and False to True",4,Done,Mehraj,11,https://youtu.be/lBH5fYovA5I,TRUE
+148,Jan/30/24,30 Jan 2024,January,Tuesday,class,How to create a class in python,,,Done,Mehraj,11,https://youtu.be/is_sINEtwOU,TRUE
+149,Jan/29/24,30 Jan 2024,January,Tuesday,complex,Explain complex in Python with examples,"In this video i disscussed about complex() function in
+ python",6,Done,Shumaila,12,,TRUE
+152,Jan/30/24,30 Jan 2024,January,Tuesday,assignment operator,Assignment Operators in Python part-2,"In this video i disscussed about Assignment Operators 
+in Python i explain how to find 
+6.Modulus and Assign(%=)
+7.Divide(floor)  and Assign(//=)
+8. Exponent and Assign(**=)
+9. Bitwise AND and Assign(&=)
+",3,Done,Rimsha,13,https://youtu.be/ypGzCPPjE0s,FALSE
+153,Jan/31/24,31 Jan 2024,January,Wednesday,assignment operator,Assignment Operators in Python part-3,"In this video i disscussed about Assignment Operators 
+in Python i explain how to find 
+10.Bitwise OR and Assign(|=)
+11.Bitwise XOR  and Assign(^=)
+12. Bitwise right shift and Assign(>>=)
+13. Bitwise left shift  and Assign(<<=)
+
+",3,Done,Rimsha,10,https://youtu.be/rmYEIF1xYI0,FALSE
+154,Jan/31/24,31 Jan 2024,January,Wednesday,String.casefold(),casefold( ) string method in python,"In this video i disscussed about casefold ()
+ method in python",4,Done,Shumaila,11,https://youtu.be/3iVzwREFHsk,TRUE
+155,Jan/31/24,31 Jan 2024,January,Wednesday,Tuple Element,Modifying Tuple Element in Python ,"In this video i disscussed about Modifying Tuple Element 
+in Python I explain how to find  tuple element  ",3,Done,Rimsha,10,https://youtu.be/bdgD6wqDJgw,FALSE
+156,Jan/31/24,31 Jan 2024,January,Wednesday,String.isnumaric(),Python String isnumeric() Method,"in this video i disscuss about the is_numeric method in python :
+The isnumeric() method returns True if all the characters are numeric (0-9), otherwise False.
+
+Exponents, like ² and ¾ are also considered to be numeric values.
+
+""-1"" and ""1.5"" are NOT considered numeric values, because all the characters in the string must be numeric, and the - and the . are not.",6,Done,Mehraj,11,https://youtu.be/bWyyuuqphCM,TRUE
+157,Jan/31/24,31 Jan 2024,January,Wednesday,String.isdigit(),isdigit( ) string method in python,In this video i disscussed about isdigit method in python,5,Done,Shumaila,10,https://youtu.be/kVe_1yAAhlA,TRUE
+158,Jan/31/24,31 Jan 2024,January,Wednesday,String.upper(),upper( ) string method,"The upper() method returns a string where all characters are in upper case.
+
+ Symbols and Numbers are ignored.
+",6,Done,Mehraj,12,https://youtu.be/9mGAgbyJueY,TRUE
+165,Jan/31/24,31 Jan 2024,January,Wednesday,Dictionary.setdefault(),setdefault () Dictionary method in python,"In this video i disscssed about  setdefault() method in
+ python",3,Done,Rimsha,11,https://youtu.be/3E29kMG8H_M,FALSE
+32,Feb/1/24,1 Feb 2024,February,Thursday,List.extend(),list method in python,extend() method,,Done,Shumaila,3,https://youtu.be/zYFmiqU-B4Y,TRUE
+33,Feb/1/24,1 Feb 2024,February,Thursday,List.count(),list method in python,count() method,,Done,Shumaila,2,https://youtu.be/8WH9eWL7egU,TRUE
+164,Feb/2/24,2 Feb 2024,February,Friday,String.isdecimal(),isdecimal() string method in python,"In this video i disscussed about string method in python i
+ explain how to find isdecimal() methood in python",8,Done,Rimsha,11,https://youtu.be/fDcviTYT3wk,FALSE
+166,Feb/2/24,2 Feb 2024,February,Friday,String.isidentifier(),isidentifier() string method in python,"In this video i disscussed about string method in python i 
+explain how to find isidentifier() method in python",8,Done,Rimsha,11,https://youtu.be/m1-Ske0QpJA,FALSE
+167,Feb/2/24,2 Feb 2024,February,Friday,String.islower(),islower() string method in python,"In this video i dissussed about string method in python
+ i explain how to find islower() method in python",7,Done,Rimsha,11,https://youtu.be/D87NbyZNIFE,FALSE
+169,Feb/2/24,2 Feb 2024,February,Friday,String.join(),String.join(),"n this Python tutorial, we delve into the powerful `join()` method for string manipulation. The `join()` method provides an efficient and concise way to concatenate elements of an iterable into a single string, separated by a specified delimiter. Whether you're a beginner or an intermediate Python developer, mastering the `join()` method is essential for writing clean and readable code.",5,Done,Mehraj,12,https://youtu.be/VNVtAx4dFA8,TRUE
+172,Feb/2/24,2 Feb 2024,February,Friday,String.lstrip(),lstrip() method in python,"In this video i disscussed about string method in python
+ i explain how to find lstrip() method in python",9,Done,Rimsha,12,https://youtu.be/4TWP3rmlPVE,FALSE
+173,Mar/2/24,2 Feb 2024,February,Friday,String.partition(),partition() method in python,"In this video i disscussed about string method in python
+ i explain how to find partition() method in python",6,Done,Rimsha,12,https://youtu.be/7F1WGJnTqXk,FALSE
+174,Mar/2/24,2 Feb 2024,February,Friday,String.replace(),replace() method in ython,"In this video i disscussed about string method in python
+ i explain how to find replace() method in python",8,Done,Rimsha,15,,FALSE
+175,Feb/2/24,2 Feb 2024,February,Friday,String.rfind(),rfind ( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find rfind () method in python""",4,Done,Shumaila,10,https://youtu.be/Ky9MNRIx9mE,FALSE
+177,Mar/2/24,2 Feb 2024,February,Friday,String.rpartition(),rparatition method in python,"In this video i disscussed about string method in python
+ i explain how to find rpartition() method in python",6,Done,Rimsha,11,https://youtu.be/Ti3gOuxz1Hs,FALSE
+178,Feb/2/24,2 Feb 2024,February,Friday,String.rsplit(),rsplit ( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find rsplit () method in python""",6,Done,Shumaila,12,https://youtu.be/RezSHsTaAeo,FALSE
+179,Feb/2/24,2 Feb 2024,February,Friday,String.rstrip(),rstrip ( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find rstrip () method in python""",,Done,Shumaila,11,https://youtu.be/N6K7xZRAsZI,FALSE
+181,Feb/2/24,2 Feb 2024,February,Friday,String.splitlines(),String.splitlines(),"Dive into the world of Python with our latest tutorial on the splitlines() method! Whether you're a beginner or an experienced coder, this video will unravel the mysteries behind splitlines() and empower you to handle text data like a pro.",5,Done,Mehraj,11,https://youtu.be/GiXUXGuLXNY,TRUE
+184,Feb/2/24,2 Feb 2024,February,Friday,String.istitle(),String.istitle(),"The istitle() method returns True if all words in a text start with a upper case letter, AND the rest of the word are lower case letters, otherwise False.
+
+Symbols and numbers are ignored.",5,Done,Mehraj,12,https://youtu.be/JjH3tbdbbSw,TRUE
+185,Feb/2/24,2 Feb 2024,February,Friday,String.zfill(),String.zfill(),"he zfill method in Python is a string method designed to pad a given string with zeros (0) on the left side, ensuring that the resulting string reaches a specified width. The name ""zfill"" stands for ""zero fill."" This method is particularly useful when dealing with numerical or date representations that require a consistent format.",5,Done,Mehraj,11,https://youtu.be/Oy8Vyv9ki4U,TRUE
+191,Feb/2/24,2 Feb 2024,February,Friday,string.rjust(),rjust ( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find rjust () method in python""",6,Done,Shumaila,12,https://youtu.be/vxSYjZ899GQ,FALSE
+302,2-Feb-2024,2 Feb 2024,February,Friday,String.replace(),string.replace() method in python,"In this video i disscussed about string method in python
+ i explain how to find replace() method in python",4,Done,Shumaila,11,https://youtu.be/zx8QQ6wPawk,FALSE
+182,Mar/2/24,2 Feb 2024,February,Friday,String.startwith(),startwith()  method in python,"In this video i disscussed about the string startawith()
+ method in python.i explain how to find startswith() method
+ in python",7,Done,Rimsha,14,https://youtu.be/xD5iqUUi5vI,FALSE
+186,Feb/3/24,3 Feb 2024,February,Saturday,String.expandtabs(),expandtabs ( ) string method in python,"In this video i dissussed about string method in python
+ i explain how to find expandtabs () method in python",5,Done,Shumaila,15,https://youtu.be/V6j3k4MnX6E,FALSE
+190,Feb/3/24,3 Feb 2024,February,Saturday,String.center(),center () method in python,"""In this video i dissussed about string method in python
+ i explain how to find centert () method in python""",5,Done,Shumaila,14,https://youtu.be/ZpC41-3JWdA,FALSE
+192,Feb/3/24,3 Feb 2024,February,Saturday,string.isupper(),isupper () string method in python,"""In this video i dissussed about string method in python
+ i explain how to find isupper() method in python""",5,Done,Shumaila,12,https://youtu.be/Dt6VehzBdXQ,FALSE
+188,Feb/5/24,5 Feb 2024,February,Monday,String.isalpha(),isalpha( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find isalphabad () method in python""",5,Done,Shumaila,14,https://youtu.be/3T5mj-Ugzcs,FALSE
+189,Feb/5/24,5 Feb 2024,February,Monday,String.isascii(),isascii( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find isascii () method in python""",6,Done,Shumaila,15,https://youtu.be/c2iRNBrK-eY,FALSE
+193,Feb/5/24,5 Feb 2024,February,Monday,string.Maketrans(),maketrans () string method in python,"""In this video i dissussed about string method in python
+ i explain how to find maketrans() method in python""",4,Done,Shumaila,16,https://youtu.be/H9Y-YNNphW4,FALSE
+194,Feb/5/24,5 Feb 2024,February,Monday,string.swapcase(),swapcase () string method in python,"""In this video i dissussed about string method in python
+ i explain how to find swapcase() method in python""",4,Done,Shumaila,11,https://youtu.be/d2BB2s2GEmU,FALSE
+195,Feb/6/24,6 Feb 2024,February,Tuesday,string.find(),find () string method in python,"""In this video i dissussed about string method in python
+ i explain how to find find() method in python""",4,Done,Shumaila,13,https://youtu.be/_pjJfpgioXg,FALSE
+196,Feb/6/24,6 Feb 2024,February,Tuesday,string.isalnum(),isalnum () string method in python,"""In this video i dissussed about string method in python
+ i explain how to find isalnum() method in python""",4,Done,Shumaila,11,https://youtu.be/x-cC2Ql7CtE,FALSE
+197,Feb/6/24,6 Feb 2024,February,Tuesday,string.index(),index() method in python,"In this video i disscussed about string method in python
+ i explain how to find index() method in python",10,Done,Rimsha,15,https://youtu.be/lSyvRIa7XGc,FALSE
+198,Feb/6/24,6 Feb 2024,February,Tuesday,String.splitlines(),splitline () method in python,"In this video i disscussed about string method in python
+ i explain how to find splitline() method in python",5,Done,Shumaila,11,https://youtu.be/O3OnKyyWpEk,FALSE
+199,Feb/6/24,6 Feb 2024,February,Tuesday,String.endswith(),String.endswith(),"The endswith() method returns True if the string ends with the specified value, otherwise False.",,Done,Mehraj,13,https://youtu.be/nnMwy1jyrVE,TRUE
+201,Feb/6/24,6 Feb 2024,February,Tuesday,string.append(),string.append()  in python,The append() method appends an element to the end of the list.,5,Done,Mehraj,13,https://youtu.be/bUumJ3zwZ7s,TRUE
+202,Feb/6/24,6 Feb 2024,February,Tuesday,string.islower(),string.islower() method in python,"in this video i disscussed about string method in python 
+i explain how to find  islower () method in python",5,Done,Shumaila,11,https://youtu.be/TKeV4HTaD6M,FALSE
+183,Jun/2/24,6 Feb 2024,February,Tuesday,String.swapcase(),swapcase() method in python,"In this video i disscussed about string method in python
+ i explain how to find swapcase() method in python",10,Done,Rimsha,13,https://youtu.be/7V6quKFliTc,FALSE
+187,Jun/2/24,6 Feb 2024,February,Tuesday,String.capitalize(),capitalize() method in python,"In this video i dissussed about string method in python
+ i explain how to find capitalize () method in python",12,Done,Rimsha,18,https://youtu.be/VodGIyVA0aY,FALSE
+200,Feb/7/24,7 Feb 2024,February,Wednesday,string.strip(),strip() method in python,"In this video i disscussed about string method in python
+ i explain how to find strip() method in python",10,Done,Rimsha,14,https://youtu.be/wA8dLNhwh1Y,FALSE
+203,Feb/7/24,7 Feb 2024,February,Wednesday,string.istitle(),string.istitle() method in python,"in this video i disscussed about string method in python 
+i explain how to find  istitle () method in python",5,Done,Shumaila,11,https://youtu.be/01dAw8W3TpI,FALSE
+204,Feb/7/24,7 Feb 2024,February,Wednesday,String.casefold(),casefold() method in python,"In this video i disscussed about string method in python
+ i explain how to find casefold() method in python",8,Done,Rimsha,,https://youtu.be/TGSC-W1utaQ,FALSE
+205,Feb/7/24,7 Feb 2024,February,Wednesday,stirng isdigit( ) method in python,stirng isdigit( ) method in python,inthis video i disccuss about the isdigit method in python how to use it and how i works i explain this with multiple examples so its easy to understand for viewers ,6,Done,Mehraj,11,(MM) Python String isdigit() Method Explained | Python Tutorial,TRUE
+206,Feb/7/24,7 Feb 2024,February,Wednesday,string islower() method in python,string islower() method in python,in this video i discuss about the islower method of string in python how is it used and how it works in python?,8,Done,Mehraj,13,(MM)  Exploring the Python islower() Method,TRUE
+207,Feb/7/24,7 Feb 2024,February,Wednesday,String.center(),center () method in python,"In this video i disscussed about string method in python
+ i explain how to find center() method in python",10,Done,Rimsha,14,https://youtu.be/E8JO0VlX3D8,FALSE
+208,Feb/7/24,7 Feb 2024,February,Wednesday,String.count(),count() method in python,"In this video i disscussed about string method in python
+ i explain how to find count() method in python",,Done,Rimsha,15,https://youtu.be/X9zAIKCrUnI,FALSE
+209,Feb/7/24,7 Feb 2024,February,Wednesday,string.startswith( ),string.startswith( ) method in python,in this video i discuss about the starts( ) method of string in python how is it used and how it works in python?,5,Done,Mehraj,13,https://youtu.be/jM7d2xRW0eg,TRUE
+210,Feb/7/24,7 Feb 2024,February,Wednesday,string.capitalize(),string.capitalize( ) method in python,in this video i discuss about the capitaliza method of string in python how is it used and how it works in python?,7,Done,Shumaila,14,https://youtu.be/wxdAVA0xgJw,FALSE
+211,Feb/7/24,7 Feb 2024,February,Wednesday,string.isspace(),string.isspace( ) method in python,in this video i discuss about the isspace method of string in python how is it used and how it works in python?,6,Done,Shumaila,13,https://youtu.be/_fzoyeKQnjk,FALSE
+212,Feb/7/24,7 Feb 2024,February,Wednesday,String.isalpha(),String.isalpha(),"The isalpha() method serves as a powerful tool for string validation in Python. It evaluates whether all characters within a string are alphabetic, returning True if so, and False otherwise. However, its functionality extends beyond mere alphabetic checks. We'll uncover its intricacies, from case sensitivity to handling whitespace, punctuation, and Unicode characters.",5,Done,Mehraj,11,https://youtu.be/lO4MZApymjI,TRUE
+213,Feb/7/24,7 Feb 2024,February,Wednesday,string.join(),string.join() method in python,"In this video i disscussed about string method in python
+ i explain how to find join() method in python",6,Done,Shumaila,16,(SY) join () method in python - YouTube,FALSE
+214,Feb/9/24,9 Feb 2024,February,Friday,string.count(),count() method in python,"In this video i disscussed about string method in python
+ i explain how to find count() method in python",10,Done,Rimsha,15,https://youtu.be/X9zAIKCrUnI,FALSE
+215,Feb/9/24,9 Feb 2024,February,Friday,String.expandtabs(),expandtabs ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find expandtabs() method in python",9,Done,Rimsha,16,https://youtu.be/qaOZVnqPAXY,FALSE
+216,Feb/9/24,9 Feb 2024,February,Friday,String.find(),find () string method in python,"In this video i disscussed about string method in python
+ i explain how to find find() method in python",9,Done,Rimsha,17,https://youtu.be/EGxHtUfkIx4,FALSE
+284,Feb/9/24,9 Feb 2024,February,Friday,String.isdecimal(),string.isdecimal() method in python,"In this video i disscussed about string method in python
+ i explain how to find isdecimal() method in python",10,Done,Shumaila,18,https://youtu.be/kZxvv7dokso,FALSE
+285,Feb/9/24,9 Feb 2024,February,Friday,String.isnumaric(),string.isnumeric() method in python,"In this video i disscussed about string method in python
+ i explain how to find isnumeric() method in python",9,Done,Shumaila,15,https://youtu.be/dQr21CDjpO0,FALSE
+286,Feb/9/24,9 Feb 2024,February,Friday,strig.isprintable(),string.isprintable() method in python,"In this video i disscussed about string method in python
+ i explain how to find isprintable() method in python",6,Done,Shumaila,11,https://youtu.be/XwhQxFoDd5Q,FALSE
+217,Feb/10/24,10 Feb 2024,February,Saturday,string.format(),format() string method,"In this video i disscussed about string method in python
+ i explain how to find format() method in python",7,Done,Rimsha,19,https://youtu.be/uiLOZbldt6Q,FALSE
+218,Feb/10/24,10 Feb 2024,February,Saturday,String.isalpha(),isalpha( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find isaplha() method in python",11,Done,Rimsha,15,https://youtu.be/Wl1Bbh2Cp54,FALSE
+252,Feb/10/24,10 Feb 2024,February,Saturday,string.startswith(),startswith( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find startswith() method in python",6,Done,Shumaila,15,https://youtu.be/R_FFoxOk3T4,FALSE
+253,Feb/10/24,10 Feb 2024,February,Saturday,String.casefold(),casefold() method in python,"In this video i disscussed about string method in python
+ i explain how to find casefold() method in python",5,Done,Mehraj,12,https://youtu.be/nHYzi8Fzm-o,TRUE
+261,Feb/10/24,10 Feb 2024,February,Saturday,String.isdecimal(),isdecima( )l method in python,"In this video i disscussed about string method in python
+ i explain how to find isdecimal method in python",7,Done,Mehraj,13,https://youtu.be/4p64IXGpm9A,TRUE
+288,10-Feb_2024,10 Feb 2024,February,Saturday,String.split(),string.split() method in python,"In this video i disscussed about string method in python
+ i explain how to find split() method in python",,Done,Shumaila,15,https://youtu.be/MAzlyOmsGPQ,FALSE
+301,10-Feb-2024,10 Feb 2024,February,Saturday,String.endswith(),string.endswith() method in python,"In this video i disscussed about string method in python
+ i explain how to find  endswith () method in python",,Done,Shumaila,12,https://youtu.be/SKp7cV4fRxA,FALSE
+289,12-Feb_2024,12 Feb 2024,February,Monday,String.title(),string.title() method in python,"In this video i disscussed about string method in python
+ i explain how to find title() method in python",,Done,Shumaila,13,https://youtu.be/HFGJtwRCi3g,FALSE
+290,12-Feb_2024,12 Feb 2024,February,Monday,String.upper(),string.upper() method in python,"In this video i disscussed about string method in python
+ i explain how to find upper() method in python",,Done,Shumaila,13,https://youtu.be/n3vLZnNT850,FALSE
+291,12-Feb_2024,12 Feb 2024,February,Monday,String.zfill(),string.zfill() method in python,"In this video i disscussed about string method in python
+ i explain how to find  zfill () method in python",,Done,Shumaila,15,https://youtu.be/hilXfP_ZIvI,FALSE
+297,12-Feb-2024,12 Feb 2024,February,Monday,String.translate(),translate() method in python,"In this video i disscussed about string method in python
+ i explain how to find  translate () method in python",,Done,Shumaila,15,https://youtu.be/cvnSaSbKeHI,FALSE
+298,12-Feb-2024,12 Feb 2024,February,Monday,String.index(),index() method in python,"In this video i disscussed about string method in python
+ i explain how to find  index () method in python",,Done,Shumaila,13,https://youtu.be/aqsgPh6sobA,FALSE
+219,Dec/2/24,12 Feb 2024,February,Monday,String.isascii(),isascii( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find isascii() method in python",7,Done,Rimsha,11,https://youtu.be/_vDqRj8ByZk,FALSE
+220,Dec/2/24,12 Feb 2024,February,Monday,string.split(),split  () method in python,"In this video i disscussed about string method in python
+ i explain how to find split() method in python",7,Done,Rimsha,12,https://youtu.be/1x4opodzAG8,FALSE
+221,Dec/2/24,12 Feb 2024,February,Monday,string.isdigit(),isdigit() method in python,"In this video i disscussed about string method in python
+ i explain how to find isdigit() method in python",10,Done,Rimsha,12,https://youtu.be/fguCss-i8kQ,FALSE
+293,13-Feb-2024,13 Feb 2024,February,Tuesday,string.isidentifier(),isidentifier() method in python,"In this video i disscussed about string method in python
+ i explain how to find  isidentifier () method in python",,Done,Shumaila,11,https://youtu.be/fgPq722lBmQ,FALSE
+222,14/2/2024,14 Feb 2024,February,Wednesday,string.isnumeric(),isnumeric() method in python,"In this video i disscussed about string method in python
+ i explain how to find isnumeric() method in python",9,Done,Rimsha,12,https://youtu.be/6RSgnw2lJBI,FALSE
+223,14/2/2024,14 Feb 2024,February,Wednesday,string.isspace(),isspace()method in python,"In this video i disscussed about string method in python
+ i explain how to find isspace() method in python",9,Done,Rimsha,12,https://youtu.be/l6RJK1-cmWo,FALSE
+224,14/2/2024,14 Feb 2024,February,Wednesday,String.istitle(),istitle() method in python,"In this video i disscussed about string method in python
+ i explain how to find istitle() method in python",7,Done,Rimsha,12,https://youtu.be/JwJQSJyYDHw,FALSE
+225,14/2/2024,14 Feb 2024,February,Wednesday,string.join(),join() method in python,"In this video i disscussed about string method in python
+ i explain how to find join() method in python",11,Done,Rimsha,19,https://youtu.be/wwSi7Uic51A,FALSE
+294,14-Feb_2024,14 Feb 2024,February,Wednesday,string.lstrip(),lstrip() method in python,"In this video i disscussed about string method in python
+ i explain how to find  lstrip () method in python",,Done,Shumaila,,,FALSE
+295,14-Feb_2024,14 Feb 2024,February,Wednesday,string.partitions(),partitions() method in python,"In this video i disscussed about string method in python
+ i explain how to find  partitions () method in python",,Done,Shumaila,15,https://youtu.be/dbU2wfUjtvk,FALSE
+296,14-Feb_2024,14 Feb 2024,February,Wednesday,String.rpartition(),rparatition() method in python,"In this video i disscussed about string method in python
+ i explain how to find  rparatition () method in python",,Done,Shumaila,13,(SY) rpartition () method in python - YouTube,FALSE
+299,14-Feb-2024,14 Feb 2024,February,Wednesday,String.strip(),strip() method in python,"In this video i disscussed about string method in python
+ i explain how to find  strip () method in python",,Done,Shumaila,13,https://youtu.be/gTlZcTujtYU,FALSE
+300,14-Feb-2024,14 Feb 2024,February,Wednesday,string.format-map,format-map() method in python,"In this video i disscussed about string method in python
+ i explain how to find  format-map () method in python",,Done,Shumaila,12,https://youtu.be/AwCrW6ialtw,FALSE
+226,Feb/15/24,15 Feb 2024,February,Thursday,string.ljust(),ljust() method in python,"In this video i disscussed about string method in python
+ i explain how to find ljust() method in python",10,Done,Rimsha,15,https://youtu.be/l2_V5ACw89g,FALSE
+227,Feb/15/24,15 Feb 2024,February,Thursday,string.lower(),lower() method in python,"In this video i disscussed about string method in python
+ i explain how to find rfind() method in python",8,Done,Rimsha,16,https://youtu.be/4BqiphIyinc,FALSE
+228,Feb/15/24,15 Feb 2024,February,Thursday,string.Maketrans(),maketrans () string method in python,"In this video i disscussed about string method in python
+ i explain how to find rfind() method in python",7,Done,Rimsha,15,https://youtu.be/oeQnNxPKBBE,FALSE
+229,Feb/15/24,15 Feb 2024,February,Thursday,string.rfind(),rfind ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find rfind() method in python",6,Done,Rimsha,16,https://youtu.be/s294T0vuIxU,FALSE
+254,Feb/15/24,15 Feb 2024,February,Thursday,String.center(),center) method in python,"In this video i disscussed about string method in python
+ i explain how to find center() method in python",4,Done,Mehraj,10,(MM) Mastering String( ) Center Method in Python,TRUE
+255,Feb/15/24,15 Feb 2024,February,Thursday,String.capitalize(),String.capitalize() method in python,"In this video i disscussed about string method in python
+ i explain how to find capitalize() method in python",5,Done,Mehraj,11,(MM)  Understanding the Python String.capitalize() Method,TRUE
+256,Feb/15/24,15 Feb 2024,February,Thursday,String.count(),String Count( )  method in python,"In this video i disscussed about string method in python
+ i explain how to find count() method in python",6,Done,Mehraj,14,(MM) Understanding the String Count() Method in Python: A Comprehensive Guide,TRUE
+287,16-Feb-2024,16 Feb 2024,February,Friday,String.lower(),string.lower() method in python,"In this video i disscussed about string method in python
+ i explain how to find lower() method in python",,Done,Shumaila,14,https://youtu.be/gesGHE-t-mE,FALSE
+292,16-Feb-2024,16 Feb 2024,February,Friday,String.encode(),string.encode() method in python,"In this video i disscussed about string method in python
+ i explain how to find  encode () method in python",,Done,Shumaila,10,https://youtu.be/gesGHE-t-mE,FALSE
+303,16/02/2024,16 Feb 2024,February,Friday,built_in function abs(),built_in abs () function in python,"In this video i disscussed about built_in function in python
+ i explain how to find abs() function in python",,Done,Shumaila,11,https://youtu.be/petdq-9hWC4,FALSE
+257,Feb/16/24,17 Feb 2024,February,Saturday,String.expandtabs(),string.expandtabs( ) method in python,"In this video i disscussed about string method in python
+ i explain how to find expandtabs() method in python",5,Done,Mehraj,12,(MM) String Expandtabs( )  method in python,FALSE
+258,Feb/17/24,17 Feb 2024,February,Saturday,String.find(),string.find( ) method in python,"In this video i disscussed about string method in python
+ i explain how to find substring by using find() method in python",5,Done,Mehraj,11,(MM)  Understanding the Python String find() Method,TRUE
+259,Feb/17/24,17 Feb 2024,February,Saturday,String.format(),String.format() method in python,"In this video i disscussed about string method in python
+ i explain how touse format() method in python",5,Done,Mehraj,13,(MM) Understanding the String Format Method in Python,TRUE
+304,18/02/2024,18 Feb 2024,February,Sunday,built_in function all () ,built_in all () function in python,"In this video i disscussed about built_in function in python
+ i explain how to find all() function in python",,Done,Shumaila,13,https://youtu.be/r9u4D_jKJa4,FALSE
+305,18/02/2024,18 Feb 2024,February,Sunday,built_in function any () ,built_in any() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find any() function in python",,Done,Shumaila,11,https://youtu.be/DB8g8Yaov9c,FALSE
+230,Feb/20/24,20 Feb 2024,February,Tuesday,string.rindex(),rindex ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find rindex() method in python",6,Done,Rimsha,12,https://youtu.be/a8c4zYeZKWY,FALSE
+231,Feb/20/24,20 Feb 2024,February,Tuesday,string .rsplit(),rsplit ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find rsplit() method in python",8,Done,Rimsha,17,https://youtu.be/ZepsU7THWz0,FALSE
+232,Feb/20/24,20 Feb 2024,February,Tuesday,string.rstrip(),rstrip () method in python,"In this video i disscussed about string method in python
+ i explain how to find rstrip() method in python",8,Done,Rimsha,19,https://youtu.be/LXtJJhCbzD4,FALSE
+233,Feb/20/24,20 Feb 2024,February,Tuesday,string.splitlines(),splitline () method in python,"In this video i disscussed about string method in python
+ i explain how to find splitlines() method in python",8,Done,Rimsha,15,https://youtu.be/7y_g02B1hSI,FALSE
+234,Feb/20/24,20 Feb 2024,February,Tuesday,String.title(),title() method in python,"In this video i disscussed about string method in python
+ i explain how to find title() method in python",7,Done,Rimsha,12,https://youtu.be/kqtAfebMuRM,FALSE
+306,20-Feb-2024,20 Feb 2024,February,Tuesday,built_in function ascii () ,built_in ascii() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find ascii() function in python",4,Done,Shumaila,12,(SY)  ascii () built_in function in python,FALSE
+307,20-Feb-2024,20 Feb 2024,February,Tuesday,built_in function bin () ,built_in bin() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find bin() function in python",4,Done,Shumaila,13,(SY) bin  built in function in python,FALSE
+308,20-Feb-2024,20 Feb 2024,February,Tuesday,built_in function bool () ,built_in bool() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find bool() function in python",4,Done,Shumaila,11,(SY) bool built_ in function in python,FALSE
+309,2/20/2024,20 Feb 2024,February,Tuesday,built_in function float () ,built_in float() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find float() function in python",6,Done,Shumaila,12,(SY) float  built-in function in python,FALSE
+235,Feb/21/24,21 Feb 2024,February,Wednesday,String.upper(),upper() method in python,"In this video i disscussed about string method in python
+ i explain how to find upper() method in python",9,Done,Rimsha,12,(RK) upper() string method in python,FALSE
+236,Feb/21/24,21 Feb 2024,February,Wednesday,String.zfill(),zfill() method in python,"In this video i disscussed about string method in python
+ i explain how to find zfill() method in python",9,Done,Rimsha,12,(RK) zfill() string method in python,FALSE
+237,Feb/21/24,21 Feb 2024,February,Wednesday,string.rjust(),rjust ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find rjust() method in python",9,Done,Rimsha,12,https://youtu.be/n2RNn_2fOA8,FALSE
+238,Feb/21/24,21 Feb 2024,February,Wednesday,string.isupper(),isupper () string method in python,"In this video i disscussed about string method in python
+ i explain how to find isupper() method in python",12,Done,Rimsha,14,https://youtu.be/cTLAncA9AXk,FALSE
+239,Feb/21/24,21 Feb 2024,February,Wednesday,string.isalnum(),isalnum () string method in python,"In this video i disscussed about string method in python
+ i explain how to find isalnum() method in python",9,Done,Rimsha,11,https://youtu.be/H6cCRN5aJYM,FALSE
+240,Feb/21/24,21 Feb 2024,February,Wednesday,String.endswith(),endswith ( ) string method in python,"In this video i disscussed about string method in python
+ i explain how to find endwith() method in python",6,Done,Rimsha,11,https://youtu.be/fjRd270oc9A,FALSE
+260,Feb/21/24,21 Feb 2024,February,Wednesday,String.isascii(),string.isascii( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use isascii) method in python",6,Done,Mehraj,12,(MM) Exploring the isascii() Method in Python Strings,TRUE
+262,Feb/21/24,21 Feb 2024,February,Wednesday,String.isidentifier(),string.isidentifier( ) method in python,"In this video i disscussed about string method in python
+ i explain how to find isidentifier( ) method in python",6,Done,Mehraj,14,(MM) Understanding the isidentifier() Method in Python | Python Tutorial,TRUE
+263,Feb/21/24,21 Feb 2024,February,Wednesday,String.isprintable(),string.isprintable( )  method in python,"In this video i disscussed about string method in python
+ i explain how to find isprintable( ) method in python",6,Done,Mehraj,12,(MM) Exploring the isprintable() Method in Python Strings,TRUE
+264,Feb/21/24,21 Feb 2024,February,Wednesday,string.isspace(),string.isspace( )  method in python,"In this video i disscussed about string method in python
+ i explain how to use isspace( )method in python",6,Done,Mehraj,11,(MM) Understanding the Python isspace() Method: A Comprehensive Guide,TRUE
+265,Feb/21/24,21 Feb 2024,February,Wednesday,String.ljust(),string.ljust( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use ljust( )method in python",6,Done,Mehraj,11,(MM) Exploring the Python ljust() Method,TRUE
+266,Feb/21/24,21 Feb 2024,February,Wednesday,String.lstrip(),string.lstrip( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use lstrip( )method in python",5,Done,Mehraj,10,(MM) Python String.lstrip() Method Explained with Examples,TRUE
+267,Feb/21/24,21 Feb 2024,February,Wednesday,String.maketrans(),string.maketrans( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use maketrans( )method in python",4,Done,Mehraj,13,(MM) Python Tutorial: Understanding str.maketrans() for String Manipulation,TRUE
+310,2/21/2024,21 Feb 2024,February,Wednesday,built_in function format () ,built_in format() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find format() function in python",5,Done,Shumaila,13,(SY) format built_in function in python,FALSE
+311,2/21/2024,21 Feb 2024,February,Wednesday,built_in function id () ,built_in id() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find id() function in python",5,Done,Shumaila,15,(SY) id built_in function in python,FALSE
+312,2/21/2024,21 Feb 2024,February,Wednesday,built_in function int() ,built_in int() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find int() function in python",6,Done,Shumaila,11,(SY)  int built_in fuction in python,FALSE
+313,2/21/2024,21 Feb 2024,February,Wednesday,built_in function len() ,built_in len() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find len() function in python",7,Done,Shumaila,16,(SY) len built_in function in python - YouTube,FALSE
+314,2/21/2024,21 Feb 2024,February,Wednesday,built_in function list() ,built_in list() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find list() function in python",5,Done,Shumaila,12,(SY) list built_in function in python,FALSE
+315,2/21/2024,21 Feb 2024,February,Wednesday,built_in function min() ,built_in min() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find min() function in python",4,Done,Shumaila,13,(SY) min byilt_ in function in python,FALSE
+241,Feb/22/24,22 Feb 2024,February,Thursday,String.encode(),encode() string method in python,"In this video i disscussed about string method in python
+ i explain how to find encode() method in python",7,Done,Rimsha,11,(RK) Built_in abs() function in python,FALSE
+242,Feb/22/24,22 Feb 2024,February,Thursday,"Built-in Function:
+abs()",abs() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find abs() function in python",,Done,Rimsha,10,(RK) Built_in abs() function in python,FALSE
+243,Feb/22/24,22 Feb 2024,February,Thursday,"Built-in Function:
+all()",all() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find all() function in python",11,Done,Rimsha,11,(RK) Built-in all() function in python,FALSE
+244,Feb/22/24,22 Feb 2024,February,Thursday,"Built-in function:
+any()",any() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find any() function in python",11,Done,Rimsha,13,(RK) Built-in any() function in python,FALSE
+268,Feb/22/24,22 Feb 2024,February,Thursday,String.partition(),string.partition( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use partition( )method in python",5,Done,Mehraj,13,(MM)  Python String Partition Method Explained | Python String Operations,TRUE
+269,Feb/22/24,22 Feb 2024,February,Thursday,String.replace(),string.replace( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use replace( )method in python",8,Done,Mehraj,14,(MM) Mastering String Manipulation with Python's Replace Method,TRUE
+316,22-Feb-2024,22 Feb 2024,February,Thursday,built_in function max() ,built_in function max() ,"In this video i disscussed about built_in function in python
+ i explain how to find max() function in python",4,Done,Shumaila,12,(SY) max built_in function in python,FALSE
+317,22-Feb-2024,22 Feb 2024,February,Thursday,built_in function next() ,built_in function next() ,"In this video i disscussed about built_in function in python
+ i explain how to find next() function in python",4,Done,Shumaila,16,(SY) next built_in function in python,FALSE
+318,22-Feb-2024,22 Feb 2024,February,Thursday,built_in function range() ,built_in function range() ,"In this video i disscussed about built_in function in python
+ i explain how to find range() function in python",4,Done,Shumaila,11,(SY) range built_in function in python,FALSE
+319,22-Feb-2024,22 Feb 2024,February,Thursday,built_in function object() ,built_in function object() ,"In this video i disscussed about built_in function in python
+ i explain how to find object() function in python",7,Done,Shumaila,12,(SY) object built in function in python,FALSE
+320,22-Feb-2024,22 Feb 2024,February,Thursday,built_in function reverse() ,built_in function reverse() ,"In this video i disscussed about built_in function in python
+ i explain how to find reverse() function in python",6,Done,Shumaila,14,(SY) reverse built_in function in python,FALSE
+245,Feb/23/24,23 Feb 2024,February,Friday,"Built-in function:
+ascii()",ascii() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find ascii() function in python",6,Done,Rimsha,11,(RK) ascii() Built-in  function in python,FALSE
+246,Feb/23/24,23 Feb 2024,February,Friday,"Built-in function:
+bin()",bin() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find bin() function in python",7,Done,Rimsha,12,(RK) bin() Built-in function in python,FALSE
+247,Feb/23/24,23 Feb 2024,February,Friday,"Built-in function:
+bool()",bool() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find bool() function in python",7,Done,Rimsha,11,(RK) bool() Built-in function in python,FALSE
+270,Feb/22/24,23 Feb 2024,February,Friday,String.rfind(),string.rfind( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rfind( )method in python",6,Done,Mehraj,13,(MM) Exploring Python's rfind() Method for String Manipulation,TRUE
+271,Feb/23/24,23 Feb 2024,February,Friday,String.rindex(),string.rindex( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rindex( )method in python",5,Done,Mehraj,13,(MM) Python String rindex() Method: A Comprehensive Guide with Examples,TRUE
+272,Feb/23/24,23 Feb 2024,February,Friday,String.rpartition(),string.rpartition( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rpartition( )method in python",6,Done,Mehraj,12,(MM)  Python String rpartition() Method Explained with Examples,TRUE
+273,Feb/23/24,23 Feb 2024,February,Friday,String.rsplit(),string.rsplit( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rsplit( )method in python",6,Done,Mehraj,11,(MM) Mastering String Manipulation in Python: Understanding the rsplit() Method,TRUE
+274,Feb/23/24,23 Feb 2024,February,Friday,String.rstrip(),string.rstrip( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rstrip( )method in python",5,Done,Mehraj,11,(MM) Python String rstrip() Method Explained: Remove Trailing Characters Easily!,TRUE
+275,Feb/23/24,23 Feb 2024,February,Friday,String.swapcase(),string.swapcase( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use swapcase( )method in python",5,Done,Mehraj,10,(MM) Python String Swapcase Method: Convert Uppercase to Lowercase and Vice Versa,TRUE
+321,23-Feb-2024,23 Feb 2024,February,Friday,built_in function callable() ,built_in function callable() ,"In this video i disscussed about built_in function in python
+ i explain how to find callable() function in python",6,Done,Shumaila,11,(SY) callable built_in function,FALSE
+322,23-Feb-2024,23 Feb 2024,February,Friday,built_in function dir() ,built_in function dir() ,"In this video i disscussed about built_in function in python
+ i explain how to find dir() function in python",5,Done,Shumaila,11,(SY) dir built_in  function in python,FALSE
+323,23-Feb-2024,23 Feb 2024,February,Friday,built_in function round() ,built_in function round() ,"In this video i disscussed about built_in function in python
+ i explain how to find round() function in python",8,Done,Shumaila,14,(SY) round built_in function,FALSE
+324,23-Feb-2024,23 Feb 2024,February,Friday,built_in function isinstance() ,built_in function isinstance() ,"In this video i disscussed about built_in function in python
+ i explain how to find isinstance() function in python",8,Done,Shumaila,14,(SY) isinstance  built_in function,FALSE
+248,Feb/24/24,24 Feb 2024,February,Saturday,"Built-in function:
+bytearray()",bytearray() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find bytearray() function in python",9,Done,Rimsha,11,(RK) bytearray() Built-in function in python.,FALSE
+325,24-Feb-2024,24 Feb 2024,February,Saturday,built_in function bytearray() ,built_in function bytearray() ,"In this video i disscussed about built_in function in python
+ i explain how to find bytearray() function in python",6,Done,Shumaila,13,(SY) bytearray built_in function in python,FALSE
+326,24-Feb-2024,24 Feb 2024,February,Saturday,built_in function bytes() ,built_in function bytes() ,"In this video i disscussed about built_in function in python
+ i explain how to find bytes() function in python",8,Done,Shumaila,15,(SY) bytes built_in function in python,FALSE
+249,Feb/26/24,26 Feb 2024,February,Monday,"Built-in function:
+bytes()",bytes() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find bytes() function in python",10,Done,Rimsha,13,(RK) bytes() Built-in function in python,FALSE
+250,Feb/26/24,26 Feb 2024,February,Monday,"Built-in function:
+callable()",callable() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find callable() function in python",13,Done,Rimsha,15,(RK) callable() Built-in function in python,FALSE
+251,Feb/26/24,26 Feb 2024,February,Monday,"Built-in function:
+chr()",chr() function in python,"In this video i disscussed about Built-in functionin python 
+i explain how to find chr() function in python",16,Done,Rimsha,15,(RK) chr() Built-in function in python,FALSE
+276,Feb/24/24,26 Feb 2024,February,Monday,String.translate(),string.translate( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use translate( )method in python",5,Done,Mehraj,14,(MM) Mastering Python's String Translate Method,TRUE
+277,Feb/26/24,26 Feb 2024,February,Monday,String.encode(),string.encode( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use encode( )method in python",5,Done,Mehraj,12,(MM) Python String encode() Method Explained | Python Tutorial,TRUE
+278,Feb/26/24,26 Feb 2024,February,Monday,String.format_map(),string.format_map( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use format_map( )method in python",3,Done,Mehraj,12,(MM)  Python String Formatting with format_map() Method Explained,TRUE
+279,Feb/26/24,26 Feb 2024,February,Monday,String.index(),string.index( ) method in python,"In this video i explain the string index( ) method
+what is index( ) method?
+How to use index( ) method?
+How it works in python?",5,Done,Mehraj,12,(MM) Python String.index() Method Explained | Python Tutorial,TRUE
+327,2/26/2024,26 Feb 2024,February,Monday,built_in function chr(),built_in function chr(),"in this video i disscussed about built_in function in python 
+i explan how to find chr() function in python",7,Done,Shumaila,16,(SY) chr() built_in function in pyhton,FALSE
+328,2/26/2024,26 Feb 2024,February,Monday,built_in function compile(),built_in function compile(),"in this video i disscussed about built_in function in python 
+i explan how to find compile() function in python",5,Done,Shumaila,16,(SY) compile() built_in function in python,FALSE
+329,2/26/2024,26 Feb 2024,February,Monday,built_in function complex(),built_in function complex(),"in this video i disscussed about built_in function in python 
+i explan how to find complex() function in python",10,Done,Shumaila,19,(SY) complex() built_in function in python,FALSE
+330,2/26/2024,26 Feb 2024,February,Monday,built_in function delattr(),built_in function delattr(),"in this video i disscussed about built_in function in python 
+i explan how to find delattr() function in python",4,Done,Shumaila,14,(SY) delattr() built_in function,FALSE
+334,2/26/2024,26 Feb 2024,February,Monday,"Built-in function:
+compile()",compile () function in python,"In this video i disscussed about built_in function in python
+ i explain how to find compile() function in python",5,Done,Rimsha,11,(RK) compile() Built-in function in python,FALSE
+280,,27 Feb 2024,February,Tuesday,String.isalnum(),string.isalnum( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use isalnum( )method in python",6,Done,Mehraj,14,(MM) Exploring the isalnum() Method in Python,TRUE
+281,,27 Feb 2024,February,Tuesday,String.isupper(),string.isupper( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use isupper( )method in python",7,Done,Mehraj,11,(MM)  Python String isupper() Method Explained,TRUE
+282,,27 Feb 2024,February,Tuesday,String.rjust(),string.rjust( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rjust( )method in python",6,Done,Mehraj,11,(MM) Mastering Python Strings: Exploring the rjust() Method,TRUE
+331,,27 Feb 2024,February,Tuesday,built_in function dict(),built_in function dict(),"in this video i disscussed about built_in function in python 
+i explan how to find dict() function in python",8,Done,Shumaila,19,(SY) dict() built_in function in python,FALSE
+332,,27 Feb 2024,February,Tuesday,built_in function divmod(),built_in function divmod(),"in this video i disscussed about built_in function in python 
+i explan how to find divmod() function in python",10,Done,Shumaila,17,(SY) divmod() built_in function in python,FALSE
+333,2/27/2024,27 Feb 2024,February,Tuesday,built_in function enumarate(),built_in function enumerate(),"in this video i disscussed about built_in function in python 
+i explan how to find enumerate() function in python",5,Done,Shumaila,14,(SY) enumerate() built_in function in python,FALSE
+335,2/27/2024,27 Feb 2024,February,Tuesday,"Built-in function:
+complex()",complex() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find complex() function in python",13,Done,Rimsha,14,(RK) complex() Built-in function in python,FALSE
+313,2/27/2024,27 Feb 2024,February,Tuesday,"Built-in function:
+delattr()()",delattr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find delattr() function in python",6,Done,Rimsha,12,(RK) delattr() Built-in function in python,FALSE
+314,,27 Feb 2024,February,Tuesday,"Built-in function:
+dict()",dict() function in function,"In this video i disscussed about built_in function in python
+ i explain how to find dict() function in python",10,Done,Rimsha,13,(RK) dict() Built-in function in python,FALSE
+315,,27 Feb 2024,February,Tuesday,String.rjust(),string.rjust( ) method in python,"In this video i disscussed about string method in python
+ i explain how to use rjust( )method in python",6,Done,Mehraj,11,(MM) Mastering Python Strings: Exploring the rjust() Method,TRUE
+9,,,,,Dictionary,Dictionary in Python,Introduction to dectionary?,,Done,Shumaila,,https://youtu.be/6OU6yCTjTc0,TRUE
+10,,5 Dec 2023,December,Tuesday,"Dictionary.update()
+Dictionary.clear()
+Dictionary.pop()
+Dictionary.popitem()
+del dict item",Dictionary Methods in Python,"1: Update 
+2: Clear 
+3: Pop 
+4: Popitem 5:del",4,Done,Shumaila,8,https://youtu.be/P17Kgjj27xk,TRUE
+11,,22 Dec 2023,December,Friday,String,String in Python,"Introduction to string
+python string function:
+1: title
+2: upper
+3: capitalize
+4: lower",4,Done,Shumaila,5,https://youtu.be/Xsnkz6IvGvk,TRUE
+12,,19 Dec 2023,December,Tuesday,String indexing,String indexing in Python,"In this video i disscussed about string method in python
+ i explain how to use string indexing( )method in python",4,Done,Shumaila,5,https://youtu.be/kuoWI8XctJo,TRUE
+176,,,,,String.rindex(),rindex ( ) string method in python,"""In this video i dissussed about string method in python
+ i explain how to find rindex () method in python""",4,Done,Shumaila,14,(SY) rindex ()  method in python,FALSE
+318,2/27/2024,27 Feb 2024,February,Tuesday,"Built-in function:
+dir()",dir() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find dir() function in python",9,Done,Rimsha,13,(RK) dir() Built-in function in python,FALSE
+319,27 Feb 2024,2/27/2024,February,Tuesday,String.strip(),String.strip() method in python,"In this video i disscussed about string method in python
+ i explain how to use strip( )method in python",7,Done,Mehraj,11,(MM)  Python String Strip Method Explained | Python Tutorial,FALSE
+320,2/27/2024,27 Feb 2024,February,Tuesday,"Built-in function:
+divmod()",divmod() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find divmod() function in python",4,Done,Rimsha,12,(RK) divmod()  Built-in function in python,FALSE
+321,2/27/2024,27 Feb 2024,February,Tuesday,built_in function eval(),built_in function eval(),"In this video i disscussed about built_in function in python
+ i explain how to find eval() function in python",5,Done,Shumaila,12,https://youtu.be/NVcwqu3l_Z4,FALSE
+322,2/27/2024,27 Feb 2024,February,Tuesday,built_in function exec(),built_in function exec(),"In this video i disscussed about built_in function in python
+ i explain how to find exec() function in python",5,Done,Shumaila,13,(SY) exec() built_in function in python,FALSE
+323,2/27/2024,27 Feb 2024,February,Tuesday,built_in function filter(),built_in function filter(),"In this video i disscussed about built_in function in python
+ i explain how to find filter() function in python",5,Done,Shumaila,14,(SY) filter() built_in function in python,FALSE
+324,2/28/2024,28 Feb 2024,February,Wednesday,built_in function frozenset(),built_in function frozenset(),"In this video i disscussed about built_in function in python
+ i explain how to find frozenset() function in python",5,Done,Shumaila,13,(SY) frozenset() built_in function in python,FALSE
+325,2/28/2024,28 Feb 2024,February,Wednesday,any( ) built in funtion in python,any( ) built in funtion in python,"In this video i disscussed about built_in function in python
+ i explain how to find any() function in python",7,Done,Mehraj,14,https://youtu.be/Rlix1iPrMVQ,TRUE
+326,2/28/2024,28 Feb 2024,February,Wednesday,all( ) built in funtion in python,all( ) built in funtion in python,"In this video i disscussed about built_in function in python
+ i explain how to find all() function in python",7,Done,Mehraj,14,(MM) Mastering Python's all() Function:,TRUE
+327,2/28/2024,28 Feb 2024,February,Wednesday,"Built-in function:
+enumerate()",enumerate() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find enumerate() function in python",5,Done,Rimsha,16,(RK) enumerate() Built-in function in python.,FALSE
+328,2/28/2024,28 Feb 2024,February,Wednesday,ascii( ) built in funtion in python,ascii( ) built in funtion in python,"In this video i disscussed about built_in function in python
+ i explain how to find ascii() functicon in python",6,Done,Mehraj,13,(MM) Exploring the ASCII Function in Python,FALSE
+329,2/28/2024,28 Feb 2024,February,Wednesday,getattr( ) built in getattr in python,getattr( ) built in funtion in python,"In this video i disscussed about built_in function in python
+ i explain how to find getattr() functicon in python",5,Done,Shumaila,14,(SY) getattr() built_in function in python,FALSE
+330,2/28/2024,28 Feb 2024,February,Wednesday,globals( ) built in getattr in python,globals( ) built in funtion in python,"In this video i disscussed about built_in function in python
+ i explain how to find globals() functicon in python",6,Done,Shumaila,11,(SY) globals() built_in function in python,FALSE
+331,2/29/2024,29 Feb 2024,February,Thursday,bin( ) built-in-function in python,bin( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find bin() functicon in python",5,Done,Mehraj,14,(MM) Exploring the bin() Function in Python,FALSE
+332,2/29/2024,29 Feb 2024,February,Thursday,bool( ) built-in-function in python,bool( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find bool() functicon in python",7,Done,Mehraj,15,(MM) Understanding Python's bool() Function,FALSE
+333,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+eval()",eval() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find eval() function in python",6,Done,Rimsha,10,(RK) eval() Built-in function in python.,FALSE
+334,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+hasattr()",hasattr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hasattr() function in python",5,Done,Shumaila,11,(SY) hasattr() built_in function in python,FALSE
+335,2/29/2024,29 Feb 2024,February,Thursday,bytearray( ) built-in-function in python,bytearray( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find byteaaray() function in python",8,Done,Mehraj,13,(MM) Exploring Python's bytearray() Function,FALSE
+336,2/29/2024,29 Feb 2024,February,Thursday,hash( ) built-in-function in python,hash( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hash() functicon in python",6,Done,Shumaila,15,(SY) hash() built_in function in python,FALSE
+337,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+exec()",exec() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find exec() function in python",10,Done,Rimsha,16,(RK) exec() Built-in function in python,FALSE
+338,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+filter()",filter() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find filter() function in python",3,Done,Rimsha,14,(RK) filter() Built-in function in python,FALSE
+339,2/29/2024,29 Feb 2024,February,Thursday,bytes( ) built-in-function in python,bytes( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find bytes() function in python",8,Done,Mehraj,11,(MM)  Exploring the Versatility of Python's bytes() Function,FALSE
+340,2/29/2024,29 Feb 2024,February,Thursday,help( ) built-in-function in python,help( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find help() function in python",6,Done,Shumaila,13,(SY) help() built_in function in python,FALSE
+341,2/29/2024,29 Feb 2024,February,Thursday,callable( ) built-in-function in python,callable( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find callable() function in python",5,Done,Mehraj,14,(MM) Understanding Python's callable() Function,FALSE
+342,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+float()",float() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find float() function in python",10,Done,Rimsha,12,(RK) float() Built-in function in python,FALSE
+343,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+format()",format() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find format() function in python",9,Done,Rimsha,12,(RK) format() Built-in function in python,FALSE
+344,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+hex()",hex() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hex() function in python",5,Done,Shumaila,15,(SY) hex() built_in function in python,FALSE
+345,2/29/2024,29 Feb 2024,February,Thursday,chr( ) built-in-function in python,chr( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find chr() function in python",8,Done,Mehraj,12,(MM) Understanding the chr() Function in Python,FALSE
+346,2/29/2024,29 Feb 2024,February,Thursday,"Built-in function:
+frozenset()",frozenset() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find forzenset() function in python",10,Done,Rimsha,20,(RK) frozenset() Built-in function in python,FALSE
+347,2/29/2024,29 Feb 2024,February,Thursday,compile( ) built-in-function in python,compile( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find compile() function in python",3,Done,Mehraj,11,(MM) Understanding Python's Compile Function: Syntax and Usage Explained,FALSE
+348,2/29/2024,29 Feb 2024,February,Thursday,complex( ) built-in-function in python,complex( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find complex() function in python",8,Done,Mehraj,11,(MM) Exploring Python's complex() Function: Creating and Manipulating Complex Numbers,FALSE
+349,2/29/2024,29 Feb 2024,February,Thursday,input( ) built-in-function in python,input( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find input() function in python",6,Done,Shumaila,12,(SY) input() built_in function in python,FALSE
+350,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+getattr()",getattr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find getattr() function in python",6,Done,Rimsha,16,(RK) getattr() Built-in function in python,FALSE
+351,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+globals()",global() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find global() function in python",7,Done,Rimsha,11,(RK) global() Built-in function in python,FALSE
+352,3/1/2024,1 Mar 2024,March,Friday,delattr( ) function in python,delattr( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find delattr() function in python",2,Done,Mehraj,17,(MM) Understanding Python's delattr() Function,FALSE
+353,3/1/2024,1 Mar 2024,March,Friday,dict() function in python,dict() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find dict() function in python",7,Done,Mehraj,14,(MM) Mastering Python's dict() Function: A Comprehensive Guide,FALSE
+354,3/1/2024,1 Mar 2024,March,Friday,issubclass() function in python,issubclass() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find issubclass() function in python",5,Done,Shumaila,13,(SY) issubclass() built_in function in python,FALSE
+355,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+help()",help() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find help() function in python",9,Done,Rimsha,13,(RK) help() Built-in function in python,FALSE
+356,3/1/2024,1 Mar 2024,March,Friday,dir() function in python,dict() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find dir() function in python",7,Done,Mehraj,11,(MM)  Exploring Python's dir() Function: A Comprehensive Guide,FALSE
+357,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+hasttr()",hasttr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hasttr() function in python",9,Done,Rimsha,16,(RK) hasattr() Built-in function in python,FALSE
+358,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+iter()",iter() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find iter() function in python",6,Done,Shumaila,13,(SY) iter() built_in function in python,FALSE
+359,3/1/2024,1 Mar 2024,March,Friday,divmod() function in python,divmod() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find divmod() function in python",7,Done,Mehraj,13,(MM)  Understanding Python's divmod() Function: Explained with Examples,FALSE
+360,3/1/2024,1 Mar 2024,March,Friday,locals() function in python,locals() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find locals() function in python",6,Done,Shumaila,12,(SY) locals() built_in function in python,FALSE
+361,3/1/2024,1 Mar 2024,March,Friday,enumerate( ) function in python,enumerate( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find enumerate() function in python",,Done,Mehraj,14,(MM)  Understanding Python's enumerate() Function,FALSE
+362,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+hash()",hash() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hash() function in python",8,Done,Rimsha,16,(RK) help() Built-in function in python,FALSE
+363,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+map()",map() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find map() function in python",6,Done,Shumaila,14,(SY) map() built_in function in python,FALSE
+364,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+memoryview()",memoryview() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find memoryview() function in python",7,Done,Shumaila,14,(SY) memoryview() built_in function in python,FALSE
+365,3/1/2024,1 Mar 2024,March,Friday,"Built-in function:
+oct()",oct() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find oct() function in python",7,Done,Shumaila,15,(SY) oct() built_in function in python,FALSE
+366,3/1/2024,1 Mar 2024,March,Friday,eval( ) function in python,eval( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find eval() function in python",4,Done,Mehraj,10,(SY) oct() built_in function in python,FALSE
+367,3/1/2024,1 Mar 2024,March,Friday,exec( ) function in python,exec( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find exec() function in python",3,Done,Mehraj,14,(MM) Understanding Dynamic Code Execution in Python with Exec(),FALSE
+368,3/1/2024,1 Mar 2024,March,Friday,frozenset( ) function in python,frozenset( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find frozenset() function in python",3,Done,Mehraj,13,(MM) Understanding Python's frozenset() Function: Immutable Sets Explained,FALSE
+369,3/1/2024,1 Mar 2024,March,Friday,getattr( ) function in python,frozenset( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find getatrr() function in python",3,Done,Mehraj,13,(MM) Python's getattr() Function Explained with Examples,FALSE
+370,3/2/2024,2 Mar 2024,March,Saturday,globals() function in python,globals() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find globals() function in python",3,Done,Mehraj,12,(MM) Understanding Python's globals() Function: Usage and Examples,FALSE
+371,3/2/2024,2 Mar 2024,March,Saturday,hex( ) built-in-function in python,hex(0 function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hex() function in python",13,Done,Rimsha,13,(RK) hex() Built-in function in python,FALSE
+372,3/2/2024,2 Mar 2024,March,Saturday,id( ) built-in-function in python,id(0 function in python,"In this video i disscussed about built_in function in python
+ i explain how to find id() function in python",10,Done,Rimsha,16,(RK) id() Built-in function in python,FALSE
+373,3/2/2024,2 Mar 2024,March,Saturday,ord( ) built-in-function in python,ord(0 function in python,"In this video i disscussed about built_in function in python
+ i explain how to find ord() function in python",7,Done,Shumaila,14,(SY) ord() built_in function in python,FALSE
+374,3/2/2024,2 Mar 2024,March,Saturday,hasattr() function in python,hasattr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hasattr() function in python",4,Done,Mehraj,11,(MM) Title: Understanding hasattr() Function in Python: Check Object Attributes Dynamically,FALSE
+375,3/2/2024,2 Mar 2024,March,Saturday,hash() function in python,hash() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hash() function in python",5,Done,Mehraj,11,(MM)  Python Hash Function Explained | How to Use Hash() Function in Python,FALSE
+376,3/2/2024,2 Mar 2024,March,Saturday,pow() function in python,pow() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find pow() function in python",9,Done,Shumaila,14,(SY) pow() built_in function in python,FALSE
+387,3/2/2024,2 Mar 2024,March,Saturday,id() Built-in function in python,id() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find id() function in python",9,Done,Mehraj,12,(MM) id() built_in function in python,FALSE
+378,3/2/2024,2 Mar 2024,March,Saturday,input() Built-in function in python,input() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find input() function in python",9,Done,Rimsha,18,(RK) input() built-in function in python,FALSE
+379,3/2/2024,2 Mar 2024,March,Saturday,int() Built-in function in python,int() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find int() function in python",8,Done,Rimsha,14,(RK) int() Built-in function in python,FALSE
+380,3/2/2024,2 Mar 2024,March,Saturday,property() Built-in function in python,property() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find property() function in python",4,Done,Shumaila,15,(SY) property() built_in function in python,FALSE
+381,3/2/2024,2 Mar 2024,March,Saturday,print() Built-in function in python,print() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find print() function in python",8,Done,Shumaila,13,(SY) print() built_in function in python,FALSE
+382,3/2/2024,2 Mar 2024,March,Saturday,isinstance() Built-in function in python,isinstance() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find isinstance() function in python",6,Done,Rimsha,15,(RK) isinstance() Built-in function in pyton,FALSE
+377,3/2/2024,3 Mar 2024,March,Sunday,help() function in python,help() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find help() function in python",7,Done,Mehraj,,(MM)  Exploring Python Documentation with the help() Function,FALSE
+384,3/2/2024,2 Mar 2024,March,Saturday,issubclass() Buil-in function in python,issubclass() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find issubclass() function in python",,Done,Rimsha,15,(RK) issubclass() Built_in function in python,FALSE
+385,3/2/2024,2 Mar 2024,March,Saturday,repr() Built-in function in python,repr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find repr() function in python",8,Done,Shumaila,18,(SY) repr() built_in  function in python,FALSE
+386,3/2/2024,2 Mar 2024,March,Saturday,set() Built-in function in python,set() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find set() function in python",9,Done,Shumaila,17,(SY) set() built_in function in python,FALSE
+383,3/2/2024,3 Mar 2024,March,Sunday,hex() function in python,hex() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find hex() function in python",5,Done,Mehraj,13,(MM)  Exploring the hex() Function in Python,FALSE
+388,3/3/2024,3 Mar 2024,March,Sunday,isinstance() Built-in function in python,isinstance() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find isinstance() function in python",3,Done,Mehraj,13,(MM)  Understanding isinstance() in Python: Check Object Types Dynamically,FALSE
+389,3/4/2024,4 Mar 2024,March,Monday,setattr() Built-in function in python,setattr() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find setattr() function in python",4,Done,Shumaila,12,(SY) setattr() built_in function in python,FALSE
+390,3/4/2024,4 Mar 2024,March,Monday,iter() Built-in function in python,iter() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find iter() function in python",6,Done,Rimsha,14,(RK) iter() Built-in function in python,FALSE
+391,3/4/2024,4 Mar 2024,March,Monday,issubclass() Built-in function in python,issubclass() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find issubclass() function in python",3,Done,Mehraj,13,(MM) Understanding Python's issubclass() Function: Explained with Examples,FALSE
+392,3/4/2024,4 Mar 2024,March,Monday,iter() Built-in function in python,iter() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find iter() function in python",4,Done,Mehraj,13,(MM)  Understanding the iter() Function in Python: A Comprehensive Guide,FALSE
+393,3/4/2024,4 Mar 2024,March,Monday,len() Built-in function in python,len() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find len() function in python",5,Done,Mehraj,11,(MM) Mastering the len() Function in Python - A Comprehensive Guide,FALSE
+394,3/4/2024,4 Mar 2024,March,Monday,locals() function in python,locals() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find locals() function in python",4,Done,Mehraj,12,(MM) Understanding Python's locals() Function: Creating Dynamic Variables,FALSE
+395,3/4/2024,4 Mar 2024,March,Monday,list() Built-in function in python,list() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find list() function in python",9,Done,Rimsha,16,(RK) list() Built-in function in python,FALSE
+396,3/4/2024,4 Mar 2024,March,Monday,len() Built-in function in python,len() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find len() function in python",10,Done,Rimsha,14,(RK) len() Built-in function in python,FALSE
+397,3/4/2024,4 Mar 2024,March,Monday,"Built-in function:
+memoryview()",memoryview() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find memoryview() function in python",5,Done,Mehraj,12,(MM) Understanding memoryview() in Python,FALSE
+398,3/4/2024,4 Mar 2024,March,Monday,"Built-in function:
+object()","Built-in function:
+object()","In this video i disscussed about built_in function in python
+ i explain how to how object() function in python",5,Done,Mehraj,12,(MM)  Understanding the `object()` Function in Python,FALSE
+399,3/4/2024,4 Mar 2024,March,Monday,"Built-in function:
+slice()","Built-in function:
+slice()","In this video i disscussed about built_in function in python
+ i explain how to how slice() function in python",6,Done,Shumaila,17,(SY) slice() built_in function in pytho,FALSE
+400,3/4/2024,4 Mar 2024,March,Monday,locals() Built-in function in python,locals() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find locals() function in python",9,Done,Rimsha,17,(RK) locals() Built_in function in python,FALSE
+401,3/5/2024,5 Mar 2024,March,Tuesday,map() Built-in function in python,map() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find map() function in python",4,Done,Rimsha,12,(RK) map() built_in function in python,FALSE
+402,3/4/2024,4 Mar 2024,March,Monday,staticmethod() Built-in function in python,staticmethod() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find staticmethod() function in python",5,Done,Shumaila,16,(SY) staticmethod() built_in function in python,FALSE
+403,3/4/2024,4 Mar 2024,March,Monday,sorted() Built-in function in python,sorted() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find sorted() function in python",5,Done,Shumaila,16,https://youtu.be/yQXFscUfzD4,FALSE
+404,3/5/2024,5 Mar 2024,March,Tuesday,oct( ) function in python,oct( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find oct() function in python",5,Done,Mehraj,12,(MM)  Understanding Python's oct() Function: Converting Integers to Octal Representation,FALSE
+405,3/5/2024,5 Mar 2024,March,Tuesday,ord( ) built-in-function in python,ord( ) built-in-function in python,"In this video i disscussed about built_in function in python
+ i explain how to find ord() function in python",13,Done,Mehraj,13,(MM) Understanding the ord() Function in Python: Explained with Examples,FALSE
+406,3/5/2024,5 Mar 2024,March,Tuesday,max() Built-in function in python,max() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find max() function in python",9,Done,Rimsha,14,(RK) max() Built-in function in python,FALSE
+407,3/5/2024,5 Mar 2024,March,Tuesday,"memoryview()() Built-in function in 
+python",memoryview()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find memoryview()() function in python",4,Done,Rimsha,13,(RK) memoryview() Built-in function in pyton,FALSE
+408,3/5/2024,5 Mar 2024,March,Tuesday,"sum()() Built-in function in 
+python",sum()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find sum()() function in python",7,Done,Shumaila,15,(SY) sum() built_in function in python,FALSE
+409,3/5/2024,5 Mar 2024,March,Tuesday,min()() Built-in function in python,min()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find min()() function in python",9,Done,Rimsha,13,(RK) min() Built-in function in python,FALSE
+410,3/5/2024,5 Mar 2024,March,Tuesday,next()() Built-in function in python,next()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find next()() function in python",6,Done,Rimsha,13,(RK) next() Built-in function in python,FALSE
+411,3/5/2024,5 Mar 2024,March,Tuesday,object()() Built-in function in python,object()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find object()() function in python",10,Done,Rimsha,11,(RK) object() Built-in function in python,FALSE
+412,3/5/2024,5 Mar 2024,March,Tuesday,"pow() Built-in function in 
+python","pow() Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how touse pow() function in python",14,Done,Mehraj,16,(MM)  Mastering Python's pow() Function: A Comprehensive Guide,FALSE
+413,3/5/2024,5 Mar 2024,March,Tuesday,"print() Built-in function in 
+python","pprint()Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how touse print() function in python",10,Done,Mehraj,16,(MM) print()Built-in function in python,FALSE
+414,3/5/2024,5 Mar 2024,March,Tuesday,"super() Built-in function in 
+python","super()Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how touse super() function in python",3,Done,Shumaila,15,(SY) super() built_in function in python,FALSE
+415,3/5/2024,5 Mar 2024,March,Tuesday,"tuple() Built-in function in 
+python","tuple()Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how touse tuple() function in python",7,Done,Shumaila,14,(SY) tuple() built_in function in python,FALSE
+416,3/5/2024,5 Mar 2024,March,Tuesday,"property() Built-in function in 
+python","property() Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how to use property() function in python",3,Done,Mehraj,11,(MM) Mastering Python's range() Function: A Comprehensive Guide,FALSE
+417,3/5/2024,5 Mar 2024,March,Tuesday,"type() Built-in function in 
+python","type() Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how to use type() function in python",7,Done,Shumaila,13,(SY) type() built_in function in python,FALSE
+418,3/5/2024,5 Mar 2024,March,Tuesday,oct() Built-in function in python,oct() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find oct() function in python",6,Done,Rimsha,11,(RK) oct() Built-in function in python,FALSE
+419,3/5/2024,5 Mar 2024,March,Tuesday,range() Built-in function in python,range() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to find range() function in python",7,Done,Mehraj,11,(MM) Mastering Python's range() Function: A Comprehensive Guide,FALSE
+420,3/5/2024,5 Mar 2024,March,Tuesday,repr() Built-in function in python,repr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find repr() function in python",8,Done,Mehraj,12,(MM) Understanding repr() Function in Python,FALSE
+421,3/5/2024,5 Mar 2024,March,Tuesday,vers() Built-in function in python,vers() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find vers() function in python",5,Done,Shumaila,11,(SY) vars() built_in function in python,FALSE
+422,3/5/2024,5 Mar 2024,March,Tuesday,ord() Built-in function in python,ord() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find ord() function in python",7,Done,Rimsha,12,(RK) ord() Built-in function in python,FALSE
+423,5-Mar-2024,5 Mar 2024,March,Tuesday,zip() Built-in function in python,zip() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find zip() function in python",5,Done,Shumaila,14,(SY) zip() built_in function in python,FALSE
+424,5-Mar-2024,5 Mar 2024,March,Tuesday,str() Built-in function in python,str() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find str() function in python",7,Done,Shumaila,11,(SY) str() built_in function in python,FALSE
+425,6-Mar-2024,6 Mar 2024,March,Wednesday,reversed() Built-in function in python,reversed() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to use reversed() function in python",5,Done,Mehraj,12,(MM) Understanding the Python reverse() Method: A Comprehensive Guide,FALSE
+426,6-Mar-2024,6 Mar 2024,March,Wednesday,pow() Built-in function in python,pow() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find oct() function in python",6,Done,Rimsha,11,(RK) pow() Built-in function in python,FALSE
+427,6-Mar-2024,6 Mar 2024,March,Wednesday,print() Built-in function in python,print() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find print() function in python",10,Done,Rimsha,15,(RK) print() Built-in function in python,FALSE
+428,6-Mar-2024,6 Mar 2024,March,Wednesday,round() Built-in function in python,round() Built-in function in python,"In this video i disscussed about built_in function in python
+ i explain how to use round() function in python",7,Done,Mehraj,12,(MM) Mastering the round() Function in Python - A Comprehensive Guide,FALSE
+429,6-Mar-2024,6 Mar 2024,March,Wednesday,property() Built-in function in python,property() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find property() function in python",2,Done,Rimsha,19,(RK) property() Built-in function in python,FALSE
+430,6-Mar-2024,6 Mar 2024,March,Wednesday,range() Built-in function in python,range() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find range() function in python",11,Done,Rimsha,16,(RK) range() Built-in function in python,FALSE
+431,6-Mar-2024,6 Mar 2024,March,Wednesday,classmethod() Built-in function in python,classmethod() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find classmethod() function in python",4,Done,Shumaila,15,(SY) classmethod() built_in function in python,FALSE
+432,6-Mar-2024,6 Mar 2024,March,Wednesday,append() list method in python,append() list method in python,"In this video i disscussed about list method in python
+ i explain how to find append() method in python",6,Done,Shumaila,14,(SY) append() list method in python,FALSE
+433,6-Mar-2024,6 Mar 2024,March,Wednesday,clear() list method in python,clear() list method in python,"In this video i disscussed about list method in python
+ i explain how to find clear() method in python",6,Done,Shumaila,12,(SY) clear() list method in python,FALSE
+434,6-Mar-2024,6 Mar 2024,March,Wednesday,copy() list method in python,copy() list method in python,"In this video i disscussed about list method in python
+ i explain how to find copy() method in python",8,Done,Shumaila,17,(SY) copy() list method in python,FALSE
+435,6-Mar-2024,6 Mar 2024,March,Wednesday,settatr( ) function in python,settatr( ) function in python,in this video i explain the settatr( ) function in python what is settatr function and how to use it and how it works in python,3,Done,Mehraj,13,(MM) Mastering Python: Understanding setattr() Function,FALSE
+436,6-Mar-2024,6 Mar 2024,March,Wednesday,repr() Built-in function in python,repr() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find repr() function in python",10,Done,Rimsha,13,(RK) repr() Built-in function in python,FALSE
+437,6-Mar-2024,6 Mar 2024,March,Wednesday,slice( ) function in python,slice( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find slice() function in python",7,Done,Mehraj,10,(MM) Mastering Python Slicing: A Comprehensive Guide,FALSE
+438,6-Mar-2024,6 Mar 2024,March,Wednesday,sorted( ) function in python,sorted( ) function in python,"In this video i disscussed about built_in function in python
+ i explain how to find sorted() function in python",7,Done,Mehraj,14,(MM)  Python Sorting Made Simple: Exploring the sorted() Function,FALSE
+439,6-Mar-2024,6 Mar 2024,March,Wednesday,reversed() Built-in function in python,reversed() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find reversed() function in python",10,Done,Rimsha,19,(RK) reversed() Built-in function in python,FALSE
+440,9-Mar-2024,9 Mar 2024,March,Saturday,round() Built-in function in python,round() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find round() function in python",11,Done,Rimsha,13,(RK) round() Built-in function in python,FALSE
+441,6-Mar-2024,6 Mar 2024,March,Wednesday,count() list method in python,count() list method in python,"In this video i disscussed about list method in python
+ i explain how to find count() method in python",6,Done,Shumaila,19,(SY) count() list method in python,FALSE
+442,6-Mar-2024,6 Mar 2024,March,Wednesday,extend() list method in python,extend() list method in python,"In this video i disscussed about list method in python
+ i explain how to find extend() method in python",6,Done,Shumaila,18,(SY) extend() list method in python,FALSE
+443,6-Mar-2024,6 Mar 2024,March,Wednesday,staticmethod() Built-in function in python,staticmethod() Built-in function in python,"In this video i disscussed about list method in python
+ i explain how to find staticmethod() method in python",3,Done,Mehraj,13,(MM) staticmethod() built_in function in python,FALSE
+444,6-Mar-2024,6 Mar 2024,March,Wednesday,index() list method in python,index() list method in python,"In this video i disscussed about list method in python
+ i explain how to find index() method in python",6,Done,Shumaila,14,(SY) index ()list_method in python,FALSE
+445,7-Mar-2024,7 Mar 2024,March,Thursday,str() Built-in function in python,str() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find str() function in python",4,Done,Mehraj,10,(MM) Understanding Python's str() Function: A Comprehensive Guide,FALSE
+446,7-Mar-2024,7 Mar 2024,March,Thursday,"sum()() Built-in function in 
+python",sum()() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find sum()() function in python",5,Done,Mehraj,14,(MM) Learn Python: Understanding the sum() Function - Python Programming Tutorial,FALSE
+447,7-Mar-2024,7 Mar 2024,March,Thursday,"super() Built-in function in 
+python","super()Built-in function in 
+python","In this video i disscussed about built_in function in python
+ i explain how touse super() function in python",3,Done,Mehraj,14,(MM) Understanding Python's super() Function: Simplifying Inheritance,FALSE
+448,7-Mar-2024,7 Mar 2024,March,Thursday,insert() list method in python,insert() list method in python,"In this video i disscussed about list method in python
+ i explain how to find insert() method in python",6,Done,Shumaila,15,(SY) insert() list method in python,FALSE
+449,7-Mar-2024,7 Mar 2024,March,Thursday,pop() list method in python,pop() list method in python,"In this video i disscussed about list method in python
+ i explain how to find pop() method in python",6,Done,Shumaila,16,(SY) pop() list method in python,FALSE
+450,7-Mar-2024,7 Mar 2024,March,Thursday,remove() list method in python,remove() list method in python,"In this video i disscussed about list method in python
+ i explain how to find remove() method in python",6,Done,Shumaila,13,(SY) remove() list method in python,FALSE
+451,7-Mar-2024,7 Mar 2024,March,Thursday,reverse() list method in python,reverse() list method in python,"In this video i disscussed about list method in python
+ i explain how to find reverse() method in python",6,Done,Shumaila,12,(SY) reverse() list method in python,FALSE
+452,9-Mar-2024,9 Mar 2024,March,Saturday,set() Built-in function in python,set() function in python,"In this video i disscussed about list method in python
+ i explain how to find set() method in python",4,Done,Rimsha,15,(RK) set() Built-in function in python,FALSE
+453,9-Mar-2024,9 Mar 2024,March,Saturday,setattr() Built-in function in python,setattr() function in python,"In this video i disscussed about list method in python
+ i explain how to find setattr() method in python",4,Done,Rimsha,11,(RK) setattr() Built-in function in python,FALSE
+454,9-Mar-2024,9 Mar 2024,March,Saturday,slice() Built-in function in python,slice( ) function in python,"In this video i disscussed about list method in python
+ i explain how to find slice() method in python",9,Done,Rimsha,17,(RK) slice() Built-in function in python,FALSE
+455,9-Mar-2024,9 Mar 2024,March,Saturday,sorted() Built-in function in python,sorted() function in python,"In this video i disscussed about list method in python
+ i explain how to find sorted() method in python",7,Done,Rimsha,14,(RK) sorted() Built-in function in python,FALSE
+456,9-Mar-2024,9 Mar 2024,March,Saturday,staticmethod() Built-in function in python,staticmethod() function in python,"In this video i disscussed about list method in python
+ i explain how to find staticmethod() method in python",4,Done,Rimsha,12,(RK) staticemethod(0 Built-in function in python,FALSE
+457,9-Mar-2024,9 Mar 2024,March,Saturday,str() Built-in function in python,str() function in python,"In this video i disscussed about list method in python
+ i explain how to find str() method in python",14,Done,Rimsha,15,(RK) str() Built-in function in python,FALSE
+458,9-Mar-2024,9 Mar 2024,March,Saturday,sum() Built-in function in python,sum() function in python,"In this video i disscussed about list method in python
+ i explain how to find sum() method in python",9,Done,Rimsha,12,(RK) sum() built-in function in python,FALSE
+459,9-Mar-2024,9 Mar 2024,March,Saturday,super() Built-in function in python,super() function in python,"In this video i disscussed about list method in python
+ i explain how to find super() method in python",3,Done,Rimsha,16,(RK) super() Built in function in python,FALSE
+460,10-Mar-2024,10 Mar 2024,March,Sunday,"type() Built-in function in 
+python","type() Built-in function in 
+python","In this video i disscussed about list method in python
+ i explain how to find type() method in python",8,Done,Mehraj,10,(MM) Understanding the type() Function in Python,FALSE
+461,10-Mar-2024,10 Mar 2024,March,Sunday,vers() Built-in function in python,vers() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find vers() function in python",4,Done,Mehraj,10,(MM) Python vars() Function Explained with Examples,FALSE
+462,11-Mar-2024,11 Mar 2024,March,Monday,copy() list method in python,copy() list method in python,"In this video i disscussed about built_in function in python
+ i explain how to find copy() function in python",4,Done,Mehraj,12,(MM) Understanding Python's list.copy() Method: A Shallow Copying Technique,FALSE
+463,11-Mar-2024,11 Mar 2024,March,Monday,clear() list method in python,clear() list method in python,"In this video i disscussed about built_in function in python
+ i explain how to find clear() function in python",4,Done,Mehraj,12,(MM) Python Tutorial: Exploring the list.clear() Method,FALSE
+464,11-Mar-2024,11 Mar 2024,March,Monday,count() list method in python,count() list method in python,"In this video i disscussed about built_in function in python
+ i explain how to find count() function in python",4,Done,Mehraj,12,(MM)  Python List Count Method Explained | Count Occurrences in a List,FALSE
+465,11-Mar-2024,11 Mar 2024,March,Monday,index() list method in python,index() list method in python,"In this video i disscussed about built_in function in python
+ i explain how to find index() function in python",4,Done,Mehraj,13,(MM) Mastering Python's index() Method: A Comprehensive Guide,FALSE
+466,11-Mar-2024,11 Mar 2024,March,Monday,insert() list method in python,insert() list method in python,"In this video i disscussed about built_in function in python
+ i explain how to find insert() function in python",5,Done,Mehraj,11,(MM) Python List Insert Method Explained,FALSE
+467,11-Mar-2024,11 Mar 2024,March,Monday,tuple() Built-in function in python,tuple() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find tuple() function in python",12,Done,Rimsha,21,(RK) tuple() Built-in function in python,FALSE
+468,11-Mar-2024,11 Mar 2024,March,Monday,sort() list method in python,sort() list method in python,"In this video i disscussed about list method in python
+ i explain how to find sort() method in python",5,Done,Shumaila,18,(SY) sort() list method in python,FALSE
+469,11-Mar-2024,11 Mar 2024,March,Monday,slice() list method in python,slice() list method in python,"In this video i disscussed about list method in python
+ i explain how to find slice() method in python",6,Done,Shumaila,13,(SY) slice() method in python,FALSE
+470,11-Mar-2024,11 Mar 2024,March,Monday,comparehsion() list method in python,comparision() list method in python,"In this video i disscussed about list method in python
+ i explain how to find comparesion() method in python",6,Done,Shumaila,15,(SY) comprehension() method in python,FALSE
+471,11-Mar-2024,11 Mar 2024,March,Monday,count() tuple method in python,count() tuple method in python,"In this video i disscussed about tuple method in python
+ i explain how to find count() method in python",6,Done,Shumaila,19,(SY) count() tuple method in python,FALSE
+472,11-Mar-2024,11 Mar 2024,March,Monday,index() tuple method in python,index() tuple method in python,"In this video i disscussed about tuplemethod in python
+ i explain how to find index() method in python",6,Done,Shumaila,23,(SY) index() tuple method in python,FALSE
+473,11-Mar-2024,11 Mar 2024,March,Monday,pop() list method in python,pop() list method in python,"In this video i disscussed about list method in python
+ i explain how to find pop() method in python",4,Done,Mehraj,12,MM Python List pop() Method Explained | Remove and Retrieve Items from Lists,FALSE
+474,11-Mar-2024,11 Mar 2024,March,Monday,remove() list method in python,remove() list method in python,"In this video i disscussed about list method in python
+ i explain how to find remove() method in python",5,Done,Mehraj,11,(MM)  Mastering Python Lists: Understanding the list.remove() Method,FALSE
+475,11-Mar-2024,11 Mar 2024,March,Monday,type() Built-in function in python,type()  function in python,"In this video i disscussed about built_in function in python
+ i explain how to find type() function in python",,Done,Rimsha,15,(RK) type() Built in function in python,FALSE
+476,12-Mar-2024,12 Mar 2024,March,Tuesday,reverse() list method in python,reverse() list method in python,"In this video i disscussed about list method in python
+ i explain how to find reverse() method in python",4,Done,Mehraj,12,(MM) list.reverse( ) method in python,FALSE
+477,12-Mar-2024,12 Mar 2024,March,Tuesday,clear() dictionary method in python,clear() dictionary method in python,"In this video i disscussed about list method in python
+ i explain how to find clear() method in python",6,Done,Shumaila,17,(SY) clear() dictionary method in python,FALSE
+478,12-Mar-2024,12 Mar 2024,March,Tuesday,copy() dictionary method in python,copy() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find copy() method in python",4,Done,Shumaila,16,(SY) copy() dictionary method in python,FALSE
+479,12-Mar-2024,12 Mar 2024,March,Tuesday,sort() list method in python,sort() list method in python,"In this video i disscussed about list method in python
+ i explain how to find reverse() method in python",5,Done,Mehraj,12,(MM) Python list.sort() Method: Sorting Lists in Python | Python Programming Tutorial,FALSE
+480,12-Mar-2024,12 Mar 2024,March,Tuesday,fromkeys() dictionary method in python,fromkeys() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find fromkeys() method in python",6,Done,Shumaila,20,(SY) fromkeys() dictionary method in python,FALSE
+481,12-Mar-2024,12 Mar 2024,March,Tuesday,get() dictionary method in python,get() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find get() method in python",6,Done,Shumaila,20,(SY) get() dictionary method in python,FALSE
+482,12-Mar-2024,12 Mar 2024,March,Tuesday,slicing() list method in python,slicing() list method in python,"In this video i disscussed aboutlist method in python
+ i explain how to find slicing() method in python",5,Done,Mehraj,11,(MM) list.slicing( ) method in python,FALSE
+483,12-Mar-2024,12 Mar 2024,March,Tuesday,comprehension( ) list method in python,comprehension( ) list method in python,"In this video i disscussed about list method in python
+ i explain how to find comprehension() method in python",5,Done,Mehraj,14,(MM)  Mastering List Comprehensions in Python | Python Programming Tutorial,FALSE
+484,12-Mar-2024,12 Mar 2024,March,Tuesday,tuple index( ) method in python,tuple index( ) method in python,"In this video i disscussed about tuple method in python
+ i explain how to find index() method in python",5,Done,Mehraj,13,(MM) Python Tuple.index() Method Explained | Search and Retrieve Index in Tuples,FALSE
+485,12-Mar-2024,12 Mar 2024,March,Tuesday,items() dictionary method in python,items() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find items() method in python",6,Done,Shumaila,19,(SY) items() dictionary method in python,FALSE
+486,12-Mar-2024,12 Mar 2024,March,Tuesday,count( ) method of tuple in python,count( ) method of tuple in python,"In this video i disscussed about tuple method in python
+ i explain how to find count() method in python",5,Done,Mehraj,12,(MM) Python Tuple count() Method Explained | Python Tutorial,FALSE
+487,12-Mar-2024,12 Mar 2024,March,Tuesday,keys() dictionary method in python,keys() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find keys() method in python",6,Done,Shumaila,17,(SY) keys() dictionary method in python,FALSE
+488,12-Mar-2024,12 Mar 2024,March,Tuesday,pop() dictionary method in python,pop() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find pop() method in python",4,Done,Shumaila,12,(SY) pop() dictionary method in python,FALSE
+489,13-Mar-2024,13 Mar 2024,March,Wednesday,vars() Built-in function in python0,vars(0 function in python,"In this video i disscussed about built_in function in python
+ i explain how to find vars() function in python",5,Done,Rimsha,17,(RK) vars() Built-in function in python,FALSE
+490,14-Mar-2024,14 Mar 2024,March,Thursday,zip() Built-in function in python,zip() function in python,"In this video i disscussed about built_in function in python
+ i explain how to find zip() function in python",5,Done,Rimsha,13,(RK) zip() Built-in function in python,FALSE
+491,13-Mar-2024,13 Mar 2024,March,Wednesday,tuple slicing( ) method in python,tuple slicing( ) method in python,"In this video i disscussed about tuple in python
+ i explain how to find slicing() function in python",3 examples with 10 slices,Done,Mehraj,17,(MM) Python Tuple Slicing Explained with Examples,FALSE
+492,13-Mar-2024,13 Mar 2024,March,Wednesday,tuple comprehension( ) method in python,tuple comprehension( ) method in python,"In this video i disscussed about tuple in python
+ i explain how to find comprehension() function in python",4,Done,Mehraj,11,(MM) Understanding Tuple Comprehension in Python - Python Programming Tutorial,FALSE
+493,13-Mar-2024,13 Mar 2024,March,Wednesday,dictionary clear( ) method in python,dictionary clear( ) method in python,"In this video i disscussed about list method in python
+ i explain how to find clear() method in python",4,Done,Mehraj,14,(MM) Python Dictionary clear() Method Explained,FALSE
+494,13-Mar-2024,13 Mar 2024,March,Wednesday,popitem() dictionary method in python,popitem() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find popitem() method in python",6,Done,Shumaila,19,(SY) popitem() dictionary method in python,FALSE
+495,13-Mar-2024,13 Mar 2024,March,Wednesday,setdefault() dictionary method in python,setdefault() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find setdefault() method in python",6,Done,Shumaila,14,(SY) setdefault() dictionary method in python,FALSE
+496,13-Mar-2024,13 Mar 2024,March,Wednesday,update() dictionary method in python,update() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find update() method in python",5,Done,Shumaila,14,(SY) update() dictionary method in python,FALSE
+497,13-Mar-2024,13 Mar 2024,March,Wednesday,value() dictionary method in python,value() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find value() method in python",6,Done,Shumaila,15,(SY) values() dictionary method in python,FALSE
+498,13-Mar-2024,13-Mar-2024,March,Wednesday,comprehsion() dictionary method in python,comprehsion() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find comprehsion() method in python",5,Done,Shumaila,17,(SY) comprehension() dictionary method in python,FALSE
+499,14-Mar-2024,14 Mar 2024,March,Thursday,slicing() tuple method in python,slicing() tuple method in python,"In this video i disscussed about tuple method in python
+ i explain how to find slicing() method in python",6,Done,Shumaila,14,(SY)  slice()  tuple method in python,FALSE
+500,14-Mar-2024,14 Mar 2024,March,Thursday,append() list method in python,append() method in python,"In this video i disscussed about list method in python.i 
+explain how to find append() method in python",10,Done,Rimsha,15,(RK) append() list method in python,FALSE
+501,14-Mar-2024,14 Mar 2024,March,Thursday,clear() list method in python,clear() method in python,"In this video i disscussed about list method in python.i 
+explain how to find clear() method in python",9,Done,Rimsha,13,(RK) clear() list method in python,FALSE
+502,14-Mar-2024,14 Mar 2024,March,Thursday,copy( ) dictionary method in python,copy( ) dictionary method in python,"In this video i disscussed about dictionary method in python.i 
+explain how to find copy() method in python",3,Done,Mehraj,15,(MM) Python Dictionary Copy() Method Explained | Shallow Copy Example,FALSE
+503,14-Mar-2024,14 Mar 2024,March,Thursday,copy() list method in python,copy() method in python,"In this video i disscussed about list method in python.i 
+explain how to find copy() method in python",10,Done,Rimsha,16,(RK) copy() list method in python,FALSE
+504,14-Mar-2024,14 Mar 2024,March,Thursday,comprehension () tuple method in python,comprehension () tuple method in python,"In this video i disscussed about tuple method in python
+ i explain how to find comprehension () method in python",5,Done,Shumaila,18,(SY) comprehension() Tuple method in python,FALSE
+505,14-Mar-2024,14-Mar-2024,March,Thursday,add() set method in python,add() set method in python,"In this video i disscussed about set method in python
+ i explain how to find add() method in python",6,Done,Shumaila,14,(SY) add() set method in python,FALSE
+506,14-Mar-2024,14-Mar-2024,March,Thursday,clear() set method in python,clear() set method in python,"In this video i disscussed about set method in python
+ i explain how to find clear() method in python",6,Done,Shumaila,13,(SY) clear() set method in python,FALSE
+507,15-Mar-2024,15 Mar 2024,March,Friday,copy() set method in python,copy() set method in python,"In this video i disscussed about set method in python
+ i explain how to find copy() method in python",6,Done,Shumaila,17,(SY) copy() set method in python,FALSE
+508,15-Mar-2024,15 Mar 2024,March,Friday,difference() set method in python,difference() set method in python,"In this video i disscussed about set method in python
+ i explain how to find difference() method in python",6,Done,Shumaila,18,(SY) Difference() set method in python,FALSE
+509,15-Mar-2024,15 Mar 2024,,Friday,difference_update() set method in python,difference_update() set method in python,"In this video i disscussed about set method in python
+ i explain how to find difference_update() method in python",6,Done,Shumaila,16,(SY) Difference_update() set method in python,FALSE
+510,15-Mar-2024,15 Mar 2024,,Friday,count() list method in python,count() method in python,"In this video i disscussed about list method in python.i 
+explain how to find count() method in python",7,Done,Rimsha,15,(RK) count() list method in python,FALSE
+511,15-Mar-2024,15 Mar 2024,,Friday,dictionary fromkeys( ) method in python,dictionary fromkeys( ) method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find fromkeys() method in python",5,Done,Mehraj,12,(MM),FALSE
+512,15-Mar-2024,15 Mar 2024,,Friday,extend() list method in python,extend()  method in python,"In this video i disscussed about list method in python.i 
+explain how to find extend() method in python",6,Done,Rimsha,15,https://youtu.be/149l2tqzFkc,FALSE
+513,15-Mar-2024,15 Mar 2024,,Friday,index() list method in python,index() method in python,"In this video i disscussed about list method in python.i 
+explain how to find index() method in python",13,Done,Rimsha,17,https://youtu.be/1zcZONIhskc,FALSE
+514,15-Mar-2024,15 Mar 2024,,Friday,dictionary get( ) method in python,dictionaryget( ) method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find get() method in python",14,Done,Mehraj,13,https://youtu.be/K6k-KLaYGQM,FALSE
+515,15-Mar-2024,15 Mar 2024,,Friday,dictionary items( ) method in python,dictionary items( ) method in python,"In this video i disscussed about dictionary method in python
+ i explain how to finditem() method in python",5,Done,Mehraj,14,(MM) Exploring Python's items() Method for Dictionaries,FALSE
+516,15-Mar-2024,15 Mar 2024,,Friday,dictionary keys( ) method in python,dictionary keys( ) method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find keys() method in python",5,Done,Mehraj,11,https://youtu.be/fHUulOqrno0,FALSE
+517,15-Mar-2024,15 Mar 2024,,Friday,discord() set method in python,discord() set method in python,"In this video i disscussed about set method in python
+ i explain how to find discord() method in python",6,Done,Shumaila,17,https://youtu.be/ZcUs6MEDS88,FALSE
+518,15-Mar-2024,15 Mar 2024,,Friday,intersection() set method in python,intersection() set method in python,"In this video i disscussed about set method in python
+ i explain how to find intersection() method in python",6,Done,Shumaila,17,https://youtu.be/2I21WXSvJzE,FALSE
+519,15-Mar-2024,15 Mar 2024,,Friday,insert() list method in python,insert() method in python,"In this video i disscussed about list method in python.i 
+explain how to find insert() method in python",9,Done,Rimsha,12,https://youtu.be/cY73V_MxGDI,FALSE
+520,16-Mar-2024,16 Mar 2024,,Saturday,pop() list method in python,pop() method in python,"In this video i disscussed about list method in python.i 
+explain how to find pop() method in python",11,Done,Rimsha,13,https://youtu.be/Rhr92M1b8rs,FALSE
+521,16-Mar-2024,16 Mar 2024,,Saturday,remove() list method in python,remove()  method in python,"In this video i disscussed about list method in python.i 
+explain how to find remove() method in python",9,Done,Rimsha,15,https://youtu.be/ecZHpoJ7iEc,FALSE
+522,16-Mar-2024,16 Mar 2024,,Saturday,pop( ) method of dictionary in python,pop( ) method of dictionary in python,"In this video i disscussed about dictionary method in python
+ i explain how to find pop() method in python",5,Done,Mehraj,13,https://youtu.be/HY8pMt10iCg,FALSE
+523,16-Mar-2024,16 Mar 2024,,Saturday,reverse() list method in python,reverse() method in python,"In this video i disscussed about list method in python.i 
+explain how to find reverse() method in python",11,Done,Rimsha,20,https://youtu.be/dH08JiA2Lkk,FALSE
+524,18-Mar-2024,18 Mar 2024,,Monday,sort() list method in python,sort() method in python,"In this video i disscussed about list method in python.i 
+explain how to find sort() method in python",7,Done,Rimsha,19,https://youtu.be/98oeeCmtVYI,FALSE
+525,16-Mar-2024,16 Mar 2024,,Saturday,popitem( ) method of dictionary in python,popitem( ) method of dictionary in python,"In this video i disscussed about dictionary method in python
+ i explain how to find popitem() method in python",5,Done,Mehraj,15,https://youtu.be/bcpBnpcou8E,FALSE
+526,16-Mar-2024,16 Mar 2024,,Saturday,setdefault() dictionary method in python,setdefault() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find setdefault() method in python",3,Done,Mehraj,11,https://youtu.be/Y0-j-A8CZVE,FALSE
+527,16-Mar-2024,16 Mar 2024,,Saturday,update() dictionary method in python,update() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find update() method in python",4,Done,Mehraj,11,https://youtu.be/Hk3bGx22F3I,FALSE
+528,16-Mar-2024,16 Mar 2024,,,value() dictionary method in python,value() dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find value() method in python",4,Done,Mehraj,12,https://youtu.be/ARdh8xefsL8,FALSE
+529,16-Mar-2024,16 Mar 2024,,,intersection_update () set method in python,intersection_update () set method in python,"In this video i disscussed about set method in python
+ i explain how to find intersection_update () method in python",6,Done,Shumaila,20,https://youtu.be/mDQXnlBm-6o,FALSE
+530,16-Mar-2024,16 Mar 2024,,,isdisjoint() set method in python,isdisjoint() set method in python,"In this video i disscussed about set method in python
+ i explain how to find isdisjoint() method in python",4,Done,Shumaila,13,https://youtu.be/wXbs3dB1Q0E,FALSE
+531,16-Mar-2024,16 Mar 2024,,,issubset() set method in python,issubset() set method in python,"In this video i disscussed about set method in python
+ i explain how to find issubset() method in python",4,Done,Shumaila,14,https://youtu.be/JS0amqt7XsA,FALSE
+532,16-Mar-2024,16 Mar 2024,,,issuperset() set method in python,issuperset() set method in python,"In this video i disscussed about set method in python
+ i explain how to find issuperset() method in python",4,Done,Shumaila,13,https://youtu.be/ZArLAfzo5vI,FALSE
+533,16-Mar-2024,16 Mar 2024,,,pop() set method in python,pop() set method in python,"In this video i disscussed about set method in python
+ i explain how to find pop() method in python",5,Done,Shumaila,14,https://youtu.be/R6nBATbBwcA,FALSE
+534,16-Mar-2024,16 Mar 2024,,,remove() set method in python,remove() set method in python,"In this video i disscussed about set method in python
+ i explain how to find remove() method in python",5,Done,Shumaila,14,https://youtu.be/9NFijh2s8rA,FALSE
+535,16-Mar-2024,16 Mar 2024,,,comprehension( ) dictionary method in python,comprehension( ) dictionary method in python,"In this video i disscussed about dictionary method in python
+ i explain how to find comprehension() method in python",3,Done,Mehraj,15,https://youtu.be/c36TA9kEsZc,FALSE
+536,18-Mar-2024,18 Mar 2024,,,slicing() list method in python,slicing() method in python,"In this video i disscussed about list method in python.i 
+explain how to find slicing() method in python",8,Done,Rimsha,12,https://youtu.be/FBf8zA-NcaA,FALSE
+537,18-Mar-2024,18 Mar 2024,,,Comprehension() list method in python,Comprehension() method in python,"In this video i disscussed about list method in python.i 
+explain how to find Comprehension() method in python",8,Done,Rimsha,,,FALSE
+538,18-Mar-2024,18 Mar 2024,,,set add() method in python,set add() method in python,"In this video i disscussed about set method in python
+ i explain how to find add() method in python",6,Done,Mehraj,12,https://youtu.be/_ZXPB0GXHT4,FALSE
+539,18-Mar-2024,18 Mar 2024,,,clear() set method in python,clear() set method in python,"In this video i disscussed about set method in python
+ i explain how to find clear() method in python",4,Done,Mehraj,13,https://youtu.be/aw33agvLAaw,FALSE
+540,,,,,copy() set method in python,copy() set method in python,"In this video i disscussed about set method in python
+ i explain how to find copy() method in python",3,Done,Mehraj,11,https://youtu.be/TVuy2PY6Teg,FALSE
+541,3/18/2024,18 Mar 2024,,,symmetric_difference() set method in python,symmetric_difference() set method in python,"In this video i disscussed about set method in python
+ i explain how to find symmetric_difference() method in python",5,Done,Shumaila,18,https://youtu.be/_XrVGReSaIw,FALSE
+542,3/18/2024,18 Mar 2024,,,remove() set method in python,remove() set method in python,"In this video i disscussed about set method in python
+ i explain how to find remove() method in python",,,,,,FALSE
+543,3/18/2024,18 Mar 2024,,,remove() set method in python,remove() set method in python,"In this video i disscussed about set method in python
+ i explain how to find remove() method in python",,,,,,FALSE
+544,3/18/2024,18 Mar 2024,,,remove() set method in python,remove() set method in python,"In this video i disscussed about set method in python
+ i explain how to find remove() method in python",,,,,,FALSE
+545,,,,,,,,,,,,,FALSE
+546,,,,,,,,,,,,,FALSE
+547,,,,,,,,,,,,,FALSE
+548,,,,,,,,,,,,,FALSE
+549,,,,,,,,,,,,,FALSE
+550,,,,,,,,,,,,,FALSE
+551,,,,,,,,,,,,,FALSE
+552,,,,,,,,,,,,,FALSE
+553,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
+,,,,,,,,,,,,,FALSE
